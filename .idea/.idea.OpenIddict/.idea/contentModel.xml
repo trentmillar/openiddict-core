@@ -1,0 +1,1433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\tmillar\.nuget\packages\xunit.runner.visualstudio\2.3.1\build\_common\xunit.abstractions.dll" t="Include" />
+    <e p="C:\Users\tmillar\.nuget\packages\xunit.runner.visualstudio\2.3.1\build\_common\xunit.runner.reporters.net452.dll" t="Include" />
+    <e p="C:\Users\tmillar\.nuget\packages\xunit.runner.visualstudio\2.3.1\build\_common\xunit.runner.utility.net452.dll" t="Include" />
+    <e p="C:\Users\tmillar\.nuget\packages\xunit.runner.visualstudio\2.3.1\build\_common\xunit.runner.visualstudio.testadapter.dll" t="Include" />
+    <e p="C:\Users\tmillar\.nuget\packages\xunit.runner.visualstudio\2.3.1\build\netcoreapp1.0\xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\tmillar\.nuget\packages\xunit.runner.visualstudio\2.3.1\build\netcoreapp1.0\xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\tmillar\.nuget\packages\xunit.runner.visualstudio\2.3.1\build\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="C:\Users\tmillar\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\tmillar\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_OpenIddict.-376030082.00" t="ExcludeRecursive" />
+    <e p="C:\work\repo\openiddict-core" t="IncludeFlat">
+      <e p="build" t="Include">
+        <e p="common.props" t="Include" />
+        <e p="dependencies.props" t="Include" />
+        <e p="key.snk" t="Include" />
+        <e p="packages.props" t="Include" />
+        <e p="repo.props" t="Include" />
+        <e p="version.props" t="Include" />
+      </e>
+      <e p="OpenIddict.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="samples" t="Include">
+        <e p="Mvc.Client" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Controllers" t="Include">
+            <e p="AuthenticationController.cs" t="Include" />
+            <e p="HomeController.cs" t="Include" />
+          </e>
+          <e p="Mvc.Client.csproj" t="IncludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="net461" t="Include">
+                <e p="Mvc.Client.AssemblyInfo.cs" t="Include" />
+              </e>
+              <e p="netcoreapp2.0" t="Include">
+                <e p="Mvc.Client.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Program.cs" t="Include" />
+          <e p="Properties" t="Include">
+            <e p="launchSettings.json" t="Include" />
+          </e>
+          <e p="Startup.cs" t="Include" />
+          <e p="Views" t="Include">
+            <e p="_ViewStart.cshtml" t="Include" />
+            <e p="shared" t="Include">
+              <e p="_Layout.cshtml" t="Include" />
+              <e p="Home.cshtml" t="Include" />
+            </e>
+          </e>
+          <e p="web.config" t="Include" />
+          <e p="wwwroot" t="Include">
+            <e p="fonts" t="Include">
+              <e p="glyphicons-halflings-regular.eot" t="Include" />
+              <e p="glyphicons-halflings-regular.svg" t="Include" />
+              <e p="glyphicons-halflings-regular.ttf" t="Include" />
+              <e p="glyphicons-halflings-regular.woff" t="Include" />
+            </e>
+            <e p="scripts" t="Include">
+              <e p="bootstrap.js" t="Include" />
+              <e p="bootstrap.min.js" t="Include" />
+              <e p="jquery-1.9.0.intellisense.js" t="Include" />
+              <e p="jquery-1.9.0.js" t="Include" />
+              <e p="jquery-1.9.0.min.js" t="Include" />
+              <e p="jquery-1.9.0.min.map" t="Include" />
+            </e>
+            <e p="stylesheets" t="Include">
+              <e p="bootstrap-theme.css" t="Include" />
+              <e p="bootstrap-theme.css.map" t="Include" />
+              <e p="bootstrap-theme.min.css" t="Include" />
+              <e p="bootstrap.css" t="Include" />
+              <e p="bootstrap.css.map" t="Include" />
+              <e p="bootstrap.min.css" t="Include" />
+              <e p="jumbotron-narrow.css" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Mvc.Server" t="IncludeRecursive">
+          <e p=".bowerrc" t="Include" />
+          <e p="appsettings.json" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="bower.json" t="Include" />
+          <e p="Certificate.pfx" t="Include" />
+          <e p="Controllers" t="Include">
+            <e p="AccountController.cs" t="Include" />
+            <e p="AuthorizationController.cs" t="Include" />
+            <e p="ErrorController.cs" t="Include" />
+            <e p="HomeController.cs" t="Include" />
+            <e p="ManageController.cs" t="Include" />
+            <e p="ResourceController.cs" t="Include" />
+            <e p="UserinfoController.cs" t="Include" />
+          </e>
+          <e p="gulpfile.js" t="Include" />
+          <e p="Helpers" t="Include">
+            <e p="FormValueRequiredAttribute.cs" t="Include" />
+          </e>
+          <e p="Models" t="Include">
+            <e p="ApplicationDbContext.cs" t="Include" />
+            <e p="ApplicationUser.cs" t="Include" />
+          </e>
+          <e p="Mvc.Server.csproj" t="IncludeRecursive" />
+          <e p="node_modules" t="ExcludeRecursive">
+            <e p="gulp" t="IncludeRecursive" />
+            <e p="gulp-concat" t="IncludeRecursive" />
+            <e p="gulp-cssmin" t="IncludeRecursive" />
+            <e p="gulp-uglify" t="IncludeRecursive" />
+            <e p="rimraf" t="IncludeRecursive" />
+          </e>
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="net461" t="Include">
+                <e p="Mvc.Server.AssemblyInfo.cs" t="Include" />
+              </e>
+              <e p="netcoreapp2.0" t="Include">
+                <e p="Mvc.Server.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="package-lock.json" t="Include" />
+          <e p="package.json" t="Include" />
+          <e p="Program.cs" t="Include" />
+          <e p="Properties" t="Include">
+            <e p="launchSettings.json" t="Include" />
+          </e>
+          <e p="Services" t="Include">
+            <e p="IEmailSender.cs" t="Include" />
+            <e p="ISmsSender.cs" t="Include" />
+            <e p="MessageServices.cs" t="Include" />
+          </e>
+          <e p="Startup.cs" t="Include" />
+          <e p="ViewModels" t="Include">
+            <e p="Account" t="Include">
+              <e p="ExternalLoginConfirmationViewModel.cs" t="Include" />
+              <e p="ForgotPasswordViewModel.cs" t="Include" />
+              <e p="LoginViewModel.cs" t="Include" />
+              <e p="RegisterViewModel.cs" t="Include" />
+              <e p="ResetPasswordViewModel.cs" t="Include" />
+              <e p="SendCodeViewModel.cs" t="Include" />
+              <e p="VerifyCodeViewModel.cs" t="Include" />
+            </e>
+            <e p="Authorization" t="Include">
+              <e p="AuthorizeViewModel.cs" t="Include" />
+              <e p="LogoutViewModel.cs" t="Include" />
+            </e>
+            <e p="Manage" t="Include">
+              <e p="AddPhoneNumberViewModel.cs" t="Include" />
+              <e p="ChangePasswordViewModel.cs" t="Include" />
+              <e p="ConfigureTwoFactorViewModel.cs" t="Include" />
+              <e p="FactorViewModel.cs" t="Include" />
+              <e p="IndexViewModel.cs" t="Include" />
+              <e p="ManageLoginsViewModel.cs" t="Include" />
+              <e p="RemoveLoginViewModel.cs" t="Include" />
+              <e p="SetPasswordViewModel.cs" t="Include" />
+              <e p="VerifyPhoneNumberViewModel.cs" t="Include" />
+            </e>
+            <e p="shared" t="Include">
+              <e p="ErrorViewModel.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Views" t="Include">
+            <e p="_ViewImports.cshtml" t="Include" />
+            <e p="_ViewStart.cshtml" t="Include" />
+            <e p="Account" t="Include">
+              <e p="ConfirmEmail.cshtml" t="Include" />
+              <e p="ExternalLoginConfirmation.cshtml" t="Include" />
+              <e p="ExternalLoginFailure.cshtml" t="Include" />
+              <e p="ForgotPassword.cshtml" t="Include" />
+              <e p="ForgotPasswordConfirmation.cshtml" t="Include" />
+              <e p="Lockout.cshtml" t="Include" />
+              <e p="Login.cshtml" t="Include" />
+              <e p="Register.cshtml" t="Include" />
+              <e p="ResetPassword.cshtml" t="Include" />
+              <e p="ResetPasswordConfirmation.cshtml" t="Include" />
+              <e p="SendCode.cshtml" t="Include" />
+              <e p="VerifyCode.cshtml" t="Include" />
+            </e>
+            <e p="Authorization" t="Include">
+              <e p="Authorize.cshtml" t="Include" />
+              <e p="Logout.cshtml" t="Include" />
+            </e>
+            <e p="Home" t="Include">
+              <e p="About.cshtml" t="Include" />
+              <e p="Contact.cshtml" t="Include" />
+              <e p="Index.cshtml" t="Include" />
+            </e>
+            <e p="Manage" t="Include">
+              <e p="AddPhoneNumber.cshtml" t="Include" />
+              <e p="ChangePassword.cshtml" t="Include" />
+              <e p="Index.cshtml" t="Include" />
+              <e p="ManageLogins.cshtml" t="Include" />
+              <e p="RemoveLogin.cshtml" t="Include" />
+              <e p="SetPassword.cshtml" t="Include" />
+              <e p="VerifyPhoneNumber.cshtml" t="Include" />
+            </e>
+            <e p="shared" t="Include">
+              <e p="_Layout.cshtml" t="Include" />
+              <e p="_LoginPartial.cshtml" t="Include" />
+              <e p="_ValidationScriptsPartial.cshtml" t="Include" />
+              <e p="Error.cshtml" t="Include" />
+            </e>
+          </e>
+          <e p="web.config" t="Include" />
+          <e p="wwwroot" t="Include">
+            <e p="_references.js" t="Include" />
+            <e p="css" t="Include">
+              <e p="site.css" t="Include" />
+            </e>
+            <e p="favicon.ico" t="Include" />
+            <e p="images" t="Include">
+              <e p="ASP-NET-Banners-01.png" t="Include" />
+              <e p="ASP-NET-Banners-02.png" t="Include" />
+              <e p="Banner-01-Azure.png" t="Include" />
+              <e p="Banner-02-VS.png" t="Include" />
+            </e>
+            <e p="js" t="Include">
+              <e p="site.js" t="Include" />
+            </e>
+            <e p="lib" t="Include">
+              <e p="bootstrap" t="Include">
+                <e p=".bower.json" t="Include" />
+                <e p="_config.yml" t="Include" />
+                <e p="_includes" t="Include">
+                  <e p="ads.html" t="Include" />
+                  <e p="footer.html" t="Include" />
+                  <e p="header.html" t="Include" />
+                  <e p="nav-components.html" t="Include" />
+                  <e p="nav-css.html" t="Include" />
+                  <e p="nav-customize.html" t="Include" />
+                  <e p="nav-getting-started.html" t="Include" />
+                  <e p="nav-javascript.html" t="Include" />
+                  <e p="nav-main.html" t="Include" />
+                  <e p="old-bs-docs.html" t="Include" />
+                  <e p="social-buttons.html" t="Include" />
+                </e>
+                <e p="_layouts" t="Include">
+                  <e p="default.html" t="Include" />
+                  <e p="home.html" t="Include" />
+                </e>
+                <e p="assets" t="Include">
+                  <e p="css" t="Include">
+                    <e p="docs.css" t="Include" />
+                    <e p="pygments-manni.css" t="Include" />
+                  </e>
+                  <e p="ico" t="Include">
+                    <e p="apple-touch-icon-114-precomposed.png" t="Include" />
+                    <e p="apple-touch-icon-144-precomposed.png" t="Include" />
+                    <e p="apple-touch-icon-57-precomposed.png" t="Include" />
+                    <e p="apple-touch-icon-72-precomposed.png" t="Include" />
+                    <e p="favicon.png" t="Include" />
+                  </e>
+                  <e p="js" t="Include">
+                    <e p="application.js" t="Include" />
+                    <e p="customizer.js" t="Include" />
+                    <e p="filesaver.js" t="Include" />
+                    <e p="holder.js" t="Include" />
+                    <e p="html5shiv.js" t="Include" />
+                    <e p="jquery.js" t="Include" />
+                    <e p="jszip.js" t="Include" />
+                    <e p="less.js" t="Include" />
+                    <e p="raw-files.js" t="Include" />
+                    <e p="respond.min.js" t="Include" />
+                    <e p="uglify.js" t="Include" />
+                  </e>
+                </e>
+                <e p="bower.json" t="Include" />
+                <e p="browserstack.json" t="Include" />
+                <e p="CNAME" t="Include" />
+                <e p="components.html" t="Include" />
+                <e p="composer.json" t="Include" />
+                <e p="CONTRIBUTING.md" t="Include" />
+                <e p="css.html" t="Include" />
+                <e p="customize.html" t="Include" />
+                <e p="dist" t="Include">
+                  <e p="css" t="Include">
+                    <e p="bootstrap-theme.css" t="Include" />
+                    <e p="bootstrap-theme.min.css" t="Include" />
+                    <e p="bootstrap.css" t="Include" />
+                    <e p="bootstrap.min.css" t="Include" />
+                  </e>
+                  <e p="fonts" t="Include">
+                    <e p="glyphicons-halflings-regular.eot" t="Include" />
+                    <e p="glyphicons-halflings-regular.svg" t="Include" />
+                    <e p="glyphicons-halflings-regular.ttf" t="Include" />
+                    <e p="glyphicons-halflings-regular.woff" t="Include" />
+                  </e>
+                  <e p="js" t="Include">
+                    <e p="bootstrap.js" t="Include" />
+                    <e p="bootstrap.min.js" t="Include" />
+                  </e>
+                </e>
+                <e p="examples" t="Include">
+                  <e p="carousel" t="Include">
+                    <e p="carousel.css" t="Include" />
+                    <e p="index.html" t="Include" />
+                  </e>
+                  <e p="grid" t="Include">
+                    <e p="grid.css" t="Include" />
+                    <e p="index.html" t="Include" />
+                  </e>
+                  <e p="jumbotron" t="Include">
+                    <e p="index.html" t="Include" />
+                    <e p="jumbotron.css" t="Include" />
+                  </e>
+                  <e p="jumbotron-narrow" t="Include">
+                    <e p="index.html" t="Include" />
+                    <e p="jumbotron-narrow.css" t="Include" />
+                  </e>
+                  <e p="justified-nav" t="Include">
+                    <e p="index.html" t="Include" />
+                    <e p="justified-nav.css" t="Include" />
+                  </e>
+                  <e p="navbar" t="Include">
+                    <e p="index.html" t="Include" />
+                    <e p="navbar.css" t="Include" />
+                  </e>
+                  <e p="navbar-fixed-top" t="Include">
+                    <e p="index.html" t="Include" />
+                    <e p="navbar-fixed-top.css" t="Include" />
+                  </e>
+                  <e p="navbar-static-top" t="Include">
+                    <e p="index.html" t="Include" />
+                    <e p="navbar-static-top.css" t="Include" />
+                  </e>
+                  <e p="non-responsive" t="Include">
+                    <e p="index.html" t="Include" />
+                    <e p="non-responsive.css" t="Include" />
+                  </e>
+                  <e p="offcanvas" t="Include">
+                    <e p="index.html" t="Include" />
+                    <e p="offcanvas.css" t="Include" />
+                    <e p="offcanvas.js" t="Include" />
+                  </e>
+                  <e p="screenshots" t="Include">
+                    <e p="carousel.jpg" t="Include" />
+                    <e p="grid.jpg" t="Include" />
+                    <e p="jumbotron-narrow.jpg" t="Include" />
+                    <e p="jumbotron.jpg" t="Include" />
+                    <e p="justified-nav.jpg" t="Include" />
+                    <e p="navbar-fixed.jpg" t="Include" />
+                    <e p="navbar-static.jpg" t="Include" />
+                    <e p="navbar.jpg" t="Include" />
+                    <e p="non-responsive.jpg" t="Include" />
+                    <e p="offcanvas.jpg" t="Include" />
+                    <e p="sign-in.jpg" t="Include" />
+                    <e p="starter-template.jpg" t="Include" />
+                    <e p="sticky-footer-navbar.jpg" t="Include" />
+                    <e p="sticky-footer.jpg" t="Include" />
+                    <e p="theme.jpg" t="Include" />
+                  </e>
+                  <e p="signin" t="Include">
+                    <e p="index.html" t="Include" />
+                    <e p="signin.css" t="Include" />
+                  </e>
+                  <e p="starter-template" t="Include">
+                    <e p="index.html" t="Include" />
+                    <e p="starter-template.css" t="Include" />
+                  </e>
+                  <e p="sticky-footer" t="Include">
+                    <e p="index.html" t="Include" />
+                    <e p="sticky-footer.css" t="Include" />
+                  </e>
+                  <e p="sticky-footer-navbar" t="Include">
+                    <e p="index.html" t="Include" />
+                    <e p="sticky-footer-navbar.css" t="Include" />
+                  </e>
+                  <e p="theme" t="Include">
+                    <e p="index.html" t="Include" />
+                    <e p="theme.css" t="Include" />
+                  </e>
+                </e>
+                <e p="fonts" t="Include">
+                  <e p="glyphicons-halflings-regular.eot" t="Include" />
+                  <e p="glyphicons-halflings-regular.svg" t="Include" />
+                  <e p="glyphicons-halflings-regular.ttf" t="Include" />
+                  <e p="glyphicons-halflings-regular.woff" t="Include" />
+                </e>
+                <e p="getting-started.html" t="Include" />
+                <e p="Gruntfile.js" t="Include" />
+                <e p="index.html" t="Include" />
+                <e p="javascript.html" t="Include" />
+                <e p="js" t="Include">
+                  <e p="affix.js" t="Include" />
+                  <e p="alert.js" t="Include" />
+                  <e p="button.js" t="Include" />
+                  <e p="carousel.js" t="Include" />
+                  <e p="collapse.js" t="Include" />
+                  <e p="dropdown.js" t="Include" />
+                  <e p="modal.js" t="Include" />
+                  <e p="popover.js" t="Include" />
+                  <e p="scrollspy.js" t="Include" />
+                  <e p="tab.js" t="Include" />
+                  <e p="tests" t="Include">
+                    <e p="index.html" t="Include" />
+                    <e p="phantom.js" t="Include" />
+                    <e p="server.js" t="Include" />
+                    <e p="unit" t="Include">
+                      <e p="affix.js" t="Include" />
+                      <e p="alert.js" t="Include" />
+                      <e p="button.js" t="Include" />
+                      <e p="carousel.js" t="Include" />
+                      <e p="collapse.js" t="Include" />
+                      <e p="dropdown.js" t="Include" />
+                      <e p="modal.js" t="Include" />
+                      <e p="phantom.js" t="Include" />
+                      <e p="popover.js" t="Include" />
+                      <e p="scrollspy.js" t="Include" />
+                      <e p="tab.js" t="Include" />
+                      <e p="tooltip.js" t="Include" />
+                      <e p="transition.js" t="Include" />
+                    </e>
+                    <e p="vendor" t="Include">
+                      <e p="jquery.js" t="Include" />
+                      <e p="qunit.css" t="Include" />
+                      <e p="qunit.js" t="Include" />
+                    </e>
+                  </e>
+                  <e p="tooltip.js" t="Include" />
+                  <e p="transition.js" t="Include" />
+                </e>
+                <e p="less" t="Include">
+                  <e p="alerts.less" t="Include" />
+                  <e p="badges.less" t="Include" />
+                  <e p="bootstrap.less" t="Include" />
+                  <e p="breadcrumbs.less" t="Include" />
+                  <e p="button-groups.less" t="Include" />
+                  <e p="buttons.less" t="Include" />
+                  <e p="carousel.less" t="Include" />
+                  <e p="close.less" t="Include" />
+                  <e p="code.less" t="Include" />
+                  <e p="component-animations.less" t="Include" />
+                  <e p="dropdowns.less" t="Include" />
+                  <e p="forms.less" t="Include" />
+                  <e p="glyphicons.less" t="Include" />
+                  <e p="grid.less" t="Include" />
+                  <e p="input-groups.less" t="Include" />
+                  <e p="jumbotron.less" t="Include" />
+                  <e p="labels.less" t="Include" />
+                  <e p="list-group.less" t="Include" />
+                  <e p="media.less" t="Include" />
+                  <e p="mixins.less" t="Include" />
+                  <e p="modals.less" t="Include" />
+                  <e p="navbar.less" t="Include" />
+                  <e p="navs.less" t="Include" />
+                  <e p="normalize.less" t="Include" />
+                  <e p="pager.less" t="Include" />
+                  <e p="pagination.less" t="Include" />
+                  <e p="panels.less" t="Include" />
+                  <e p="popovers.less" t="Include" />
+                  <e p="print.less" t="Include" />
+                  <e p="progress-bars.less" t="Include" />
+                  <e p="responsive-utilities.less" t="Include" />
+                  <e p="scaffolding.less" t="Include" />
+                  <e p="tables.less" t="Include" />
+                  <e p="theme.less" t="Include" />
+                  <e p="thumbnails.less" t="Include" />
+                  <e p="tooltip.less" t="Include" />
+                  <e p="type.less" t="Include" />
+                  <e p="utilities.less" t="Include" />
+                  <e p="variables.less" t="Include" />
+                  <e p="wells.less" t="Include" />
+                </e>
+                <e p="LICENSE" t="Include" />
+                <e p="package.json" t="Include" />
+                <e p="README.md" t="Include" />
+              </e>
+              <e p="bootstrap-touch-carousel" t="Include">
+                <e p=".bower.json" t="Include" />
+                <e p="bower.json" t="Include" />
+                <e p="CHANGELOG.md" t="Include" />
+                <e p="dist" t="Include">
+                  <e p="css" t="Include">
+                    <e p="bootstrap-touch-carousel.css" t="Include" />
+                  </e>
+                  <e p="js" t="Include">
+                    <e p="bootstrap-touch-carousel.js" t="Include" />
+                  </e>
+                </e>
+                <e p="Gruntfile.js" t="Include" />
+                <e p="LICENSE-MIT" t="Include" />
+                <e p="package.json" t="Include" />
+                <e p="README.md" t="Include" />
+                <e p="src" t="Include">
+                  <e p="js" t="Include">
+                    <e p="touch-carousel.js" t="Include" />
+                    <e p="transition.js" t="Include" />
+                  </e>
+                  <e p="less" t="Include">
+                    <e p="carousel.less" t="Include" />
+                    <e p="elements.less" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="hammer.js" t="Include">
+                <e p=".bower.json" t="Include" />
+                <e p=".bowerrc" t="Include" />
+                <e p=".gitignore" t="Include" />
+                <e p=".jscsrc" t="Include" />
+                <e p=".jshintrc" t="Include" />
+                <e p=".travis.yml" t="Include" />
+                <e p="bower.json" t="Include" />
+                <e p="CHANGELOG.md" t="Include" />
+                <e p="component.json" t="Include" />
+                <e p="CONTRIBUTING.md" t="Include" />
+                <e p="Gruntfile.coffee" t="Include" />
+                <e p="hammer.js" t="Include" />
+                <e p="hammer.min.js" t="Include" />
+                <e p="hammer.min.map" t="Include" />
+                <e p="LICENSE.md" t="Include" />
+                <e p="package.json" t="Include" />
+                <e p="README.md" t="Include" />
+              </e>
+              <e p="jquery" t="Include">
+                <e p=".bower.json" t="Include" />
+                <e p="bower.json" t="Include" />
+                <e p="dist" t="Include">
+                  <e p="jquery.js" t="Include" />
+                  <e p="jquery.min.js" t="Include" />
+                  <e p="jquery.min.map" t="Include" />
+                </e>
+                <e p="MIT-LICENSE.txt" t="Include" />
+                <e p="src" t="Include">
+                  <e p="ajax" t="Include">
+                    <e p="jsonp.js" t="Include" />
+                    <e p="load.js" t="Include" />
+                    <e p="parseJSON.js" t="Include" />
+                    <e p="parseXML.js" t="Include" />
+                    <e p="script.js" t="Include" />
+                    <e p="var" t="Include">
+                      <e p="nonce.js" t="Include" />
+                      <e p="rquery.js" t="Include" />
+                    </e>
+                    <e p="xhr.js" t="Include" />
+                  </e>
+                  <e p="ajax.js" t="Include" />
+                  <e p="attributes" t="Include">
+                    <e p="attr.js" t="Include" />
+                    <e p="classes.js" t="Include" />
+                    <e p="prop.js" t="Include" />
+                    <e p="support.js" t="Include" />
+                    <e p="val.js" t="Include" />
+                  </e>
+                  <e p="attributes.js" t="Include" />
+                  <e p="callbacks.js" t="Include" />
+                  <e p="core" t="Include">
+                    <e p="access.js" t="Include" />
+                    <e p="init.js" t="Include" />
+                    <e p="parseHTML.js" t="Include" />
+                    <e p="ready.js" t="Include" />
+                    <e p="var" t="Include">
+                      <e p="rsingleTag.js" t="Include" />
+                    </e>
+                  </e>
+                  <e p="core.js" t="Include" />
+                  <e p="css" t="Include">
+                    <e p="addGetHookIf.js" t="Include" />
+                    <e p="curCSS.js" t="Include" />
+                    <e p="defaultDisplay.js" t="Include" />
+                    <e p="hiddenVisibleSelectors.js" t="Include" />
+                    <e p="support.js" t="Include" />
+                    <e p="swap.js" t="Include" />
+                    <e p="var" t="Include">
+                      <e p="cssExpand.js" t="Include" />
+                      <e p="getStyles.js" t="Include" />
+                      <e p="isHidden.js" t="Include" />
+                      <e p="rmargin.js" t="Include" />
+                      <e p="rnumnonpx.js" t="Include" />
+                    </e>
+                  </e>
+                  <e p="css.js" t="Include" />
+                  <e p="data" t="Include">
+                    <e p="accepts.js" t="Include" />
+                    <e p="Data.js" t="Include" />
+                    <e p="var" t="Include">
+                      <e p="data_priv.js" t="Include" />
+                      <e p="data_user.js" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Data.js" t="Include" />
+                  <e p="deferred.js" t="Include" />
+                  <e p="deprecated.js" t="Include" />
+                  <e p="dimensions.js" t="Include" />
+                  <e p="effects" t="Include">
+                    <e p="animatedSelector.js" t="Include" />
+                    <e p="Tween.js" t="Include" />
+                  </e>
+                  <e p="effects.js" t="Include" />
+                  <e p="event" t="Include">
+                    <e p="ajax.js" t="Include" />
+                    <e p="alias.js" t="Include" />
+                    <e p="support.js" t="Include" />
+                  </e>
+                  <e p="event.js" t="Include" />
+                  <e p="exports" t="Include">
+                    <e p="amd.js" t="Include" />
+                    <e p="global.js" t="Include" />
+                  </e>
+                  <e p="intro.js" t="Include" />
+                  <e p="jquery.js" t="Include" />
+                  <e p="manipulation" t="Include">
+                    <e p="_evalUrl.js" t="Include" />
+                    <e p="support.js" t="Include" />
+                    <e p="var" t="Include">
+                      <e p="rcheckableType.js" t="Include" />
+                    </e>
+                  </e>
+                  <e p="manipulation.js" t="Include" />
+                  <e p="offset.js" t="Include" />
+                  <e p="outro.js" t="Include" />
+                  <e p="queue" t="Include">
+                    <e p="delay.js" t="Include" />
+                  </e>
+                  <e p="queue.js" t="Include" />
+                  <e p="selector-native.js" t="Include" />
+                  <e p="selector-sizzle.js" t="Include" />
+                  <e p="selector.js" t="Include" />
+                  <e p="serialize.js" t="Include" />
+                  <e p="sizzle" t="Include">
+                    <e p="dist" t="Include">
+                      <e p="sizzle.js" t="Include" />
+                      <e p="sizzle.min.js" t="Include" />
+                      <e p="sizzle.min.map" t="Include" />
+                    </e>
+                  </e>
+                  <e p="traversing" t="Include">
+                    <e p="findFilter.js" t="Include" />
+                    <e p="var" t="Include">
+                      <e p="rneedsContext.js" t="Include" />
+                    </e>
+                  </e>
+                  <e p="traversing.js" t="Include" />
+                  <e p="var" t="Include">
+                    <e p="arr.js" t="Include" />
+                    <e p="class2type.js" t="Include" />
+                    <e p="concat.js" t="Include" />
+                    <e p="hasOwn.js" t="Include" />
+                    <e p="indexOf.js" t="Include" />
+                    <e p="pnum.js" t="Include" />
+                    <e p="push.js" t="Include" />
+                    <e p="rnotwhite.js" t="Include" />
+                    <e p="slice.js" t="Include" />
+                    <e p="strundefined.js" t="Include" />
+                    <e p="support.js" t="Include" />
+                    <e p="toString.js" t="Include" />
+                  </e>
+                  <e p="wrap.js" t="Include" />
+                </e>
+              </e>
+              <e p="jquery-validation" t="Include">
+                <e p=".bower.json" t="Include" />
+                <e p=".gitattributes" t="Include" />
+                <e p=".gitignore" t="Include" />
+                <e p=".travis.yml" t="Include" />
+                <e p="additional-methods.js" t="Include" />
+                <e p="changelog.txt" t="Include" />
+                <e p="CONTRIBUTING.md" t="Include" />
+                <e p="demo" t="Include">
+                  <e p="ajaxSubmit-integration-demo.html" t="Include" />
+                  <e p="captcha" t="Include">
+                    <e p="captcha.js" t="Include" />
+                    <e p="fonts" t="Include">
+                      <e p="Anorexia.ttf" t="Include" />
+                    </e>
+                    <e p="image_req.php" t="Include" />
+                    <e p="images" t="Include">
+                      <e p=".htaccess" t="Include" />
+                      <e p="button.png" t="Include" />
+                      <e p="image.php" t="Include" />
+                    </e>
+                    <e p="index.php" t="Include" />
+                    <e p="newsession.php" t="Include" />
+                    <e p="process.php" t="Include" />
+                    <e p="rand.php" t="Include" />
+                    <e p="style.css" t="Include" />
+                  </e>
+                  <e p="css" t="Include">
+                    <e p="cmxform.css" t="Include" />
+                    <e p="cmxformTemplate.css" t="Include" />
+                    <e p="core.css" t="Include" />
+                    <e p="reset.css" t="Include" />
+                    <e p="screen.css" t="Include" />
+                  </e>
+                  <e p="custom-messages-data-demo.html" t="Include" />
+                  <e p="custom-methods-demo.html" t="Include" />
+                  <e p="dynamic-totals.html" t="Include" />
+                  <e p="errorcontainer-demo.html" t="Include" />
+                  <e p="file_input.html" t="Include" />
+                  <e p="images" t="Include">
+                    <e p="bg.gif" t="Include" />
+                    <e p="checked.gif" t="Include" />
+                    <e p="cmxform-divider.gif" t="Include" />
+                    <e p="cmxform-fieldset.gif" t="Include" />
+                    <e p="loading.gif" t="Include" />
+                    <e p="unchecked.gif" t="Include" />
+                  </e>
+                  <e p="index.html" t="Include" />
+                  <e p="jquerymobile.html" t="Include" />
+                  <e p="login" t="Include">
+                    <e p="images" t="Include">
+                      <e p="bg.gif" t="Include" />
+                      <e p="header1.jpg" t="Include" />
+                      <e p="page.gif" t="Include" />
+                      <e p="required_star.gif" t="Include" />
+                    </e>
+                    <e p="index.html" t="Include" />
+                    <e p="screen.css" t="Include" />
+                  </e>
+                  <e p="marketo" t="Include">
+                    <e p="images" t="Include">
+                      <e p="back_green-fade.gif" t="Include" />
+                      <e p="back_nav_blue.gif" t="Include" />
+                      <e p="backRequiredGray.gif" t="Include" />
+                      <e p="blank.gif" t="Include" />
+                      <e p="button-submit.gif" t="Include" />
+                      <e p="favicon.ico" t="Include" />
+                      <e p="help.png" t="Include" />
+                      <e p="left-nav-callout-long.png" t="Include" />
+                      <e p="login-sprite.gif" t="Include" />
+                      <e p="logo_marketo.gif" t="Include" />
+                      <e p="sf.png" t="Include" />
+                      <e p="step1-24.gif" t="Include" />
+                      <e p="step2-24.gif" t="Include" />
+                      <e p="step3-24.gif" t="Include" />
+                      <e p="tab-sprite.gif" t="Include" />
+                      <e p="tab_green.gif" t="Include" />
+                      <e p="time.png" t="Include" />
+                      <e p="toggle.gif" t="Include" />
+                      <e p="warning.gif" t="Include" />
+                    </e>
+                    <e p="index.html" t="Include" />
+                    <e p="jquery.maskedinput.js" t="Include" />
+                    <e p="mktSignup.js" t="Include" />
+                    <e p="step2.htm" t="Include" />
+                    <e p="stylesheet.css" t="Include" />
+                  </e>
+                  <e p="milk" t="Include">
+                    <e p="bg.gif" t="Include" />
+                    <e p="index.html" t="Include" />
+                    <e p="left_white.png" t="Include" />
+                    <e p="milk.css" t="Include" />
+                    <e p="milk.png" t="Include" />
+                    <e p="right_white.png" t="Include" />
+                  </e>
+                  <e p="multipart" t="Include">
+                    <e p="index.html" t="Include" />
+                    <e p="js" t="Include">
+                      <e p="jquery.maskedinput-1.0.js" t="Include" />
+                      <e p="ui.accordion.js" t="Include" />
+                      <e p="ui.core.js" t="Include" />
+                    </e>
+                    <e p="style.css" t="Include" />
+                  </e>
+                  <e p="radio-checkbox-select-demo.html" t="Include" />
+                  <e p="tabs" t="Include">
+                    <e p="index.html" t="Include" />
+                  </e>
+                  <e p="themerollered.html" t="Include" />
+                  <e p="tinymce" t="Include">
+                    <e p="index.html" t="Include" />
+                    <e p="themes" t="Include">
+                      <e p="simple" t="Include">
+                        <e p="editor_template.js" t="Include" />
+                        <e p="img" t="Include">
+                          <e p="icons.gif" t="Include" />
+                        </e>
+                        <e p="langs" t="Include">
+                          <e p="en.js" t="Include" />
+                        </e>
+                        <e p="skins" t="Include">
+                          <e p="default" t="Include">
+                            <e p="ui.css" t="Include" />
+                          </e>
+                        </e>
+                      </e>
+                    </e>
+                    <e p="tiny_mce.js" t="Include" />
+                  </e>
+                </e>
+                <e p="Gruntfile.js" t="Include" />
+                <e p="jquery.validate.js" t="Include" />
+                <e p="lib" t="Include">
+                  <e p="jquery-1.6.4.js" t="Include" />
+                  <e p="jquery-1.7.2.js" t="Include" />
+                  <e p="jquery-1.8.3.js" t="Include" />
+                  <e p="jquery-1.9.0.js" t="Include" />
+                  <e p="jquery.form.js" t="Include" />
+                  <e p="jquery.js" t="Include" />
+                  <e p="jquery.mockjax.js" t="Include" />
+                </e>
+                <e p="localization" t="Include">
+                  <e p="messages_ar.js" t="Include" />
+                  <e p="messages_bg.js" t="Include" />
+                  <e p="messages_ca.js" t="Include" />
+                  <e p="messages_cs.js" t="Include" />
+                  <e p="messages_da.js" t="Include" />
+                  <e p="messages_de.js" t="Include" />
+                  <e p="messages_el.js" t="Include" />
+                  <e p="messages_es.js" t="Include" />
+                  <e p="messages_et.js" t="Include" />
+                  <e p="messages_eu.js" t="Include" />
+                  <e p="messages_fa.js" t="Include" />
+                  <e p="messages_fi.js" t="Include" />
+                  <e p="messages_fr.js" t="Include" />
+                  <e p="messages_he.js" t="Include" />
+                  <e p="messages_hr.js" t="Include" />
+                  <e p="messages_hu.js" t="Include" />
+                  <e p="messages_it.js" t="Include" />
+                  <e p="messages_ja.js" t="Include" />
+                  <e p="messages_ka.js" t="Include" />
+                  <e p="messages_kk.js" t="Include" />
+                  <e p="messages_ko.js" t="Include" />
+                  <e p="messages_lt.js" t="Include" />
+                  <e p="messages_lv.js" t="Include" />
+                  <e p="messages_my.js" t="Include" />
+                  <e p="messages_nl.js" t="Include" />
+                  <e p="messages_no.js" t="Include" />
+                  <e p="messages_pl.js" t="Include" />
+                  <e p="messages_pt_BR.js" t="Include" />
+                  <e p="messages_pt_PT.js" t="Include" />
+                  <e p="messages_ro.js" t="Include" />
+                  <e p="messages_ru.js" t="Include" />
+                  <e p="messages_si.js" t="Include" />
+                  <e p="messages_sk.js" t="Include" />
+                  <e p="messages_sl.js" t="Include" />
+                  <e p="messages_sr.js" t="Include" />
+                  <e p="messages_sv.js" t="Include" />
+                  <e p="messages_th.js" t="Include" />
+                  <e p="messages_tr.js" t="Include" />
+                  <e p="messages_uk.js" t="Include" />
+                  <e p="messages_vi.js" t="Include" />
+                  <e p="messages_zh.js" t="Include" />
+                  <e p="messages_zh_TW.js" t="Include" />
+                  <e p="methods_de.js" t="Include" />
+                  <e p="methods_nl.js" t="Include" />
+                  <e p="methods_pt.js" t="Include" />
+                </e>
+                <e p="package.json" t="Include" />
+                <e p="README.md" t="Include" />
+                <e p="test" t="Include">
+                  <e p="events.html" t="Include" />
+                  <e p="firebug" t="Include">
+                    <e p="errorIcon.png" t="Include" />
+                    <e p="firebug.css" t="Include" />
+                    <e p="firebug.html" t="Include" />
+                    <e p="firebug.js" t="Include" />
+                    <e p="firebugx.js" t="Include" />
+                    <e p="infoIcon.png" t="Include" />
+                    <e p="warningIcon.png" t="Include" />
+                  </e>
+                  <e p="index.html" t="Include" />
+                  <e p="jquery.js" t="Include" />
+                  <e p="large.html" t="Include" />
+                  <e p="messages.js" t="Include" />
+                  <e p="methods.js" t="Include" />
+                  <e p="qunit" t="Include">
+                    <e p="qunit.css" t="Include" />
+                    <e p="qunit.js" t="Include" />
+                  </e>
+                  <e p="rules.js" t="Include" />
+                  <e p="selects" t="Include">
+                    <e p="index.html" t="Include" />
+                  </e>
+                  <e p="tabs.html" t="Include" />
+                  <e p="test.js" t="Include" />
+                </e>
+                <e p="todo" t="Include" />
+                <e p="validation.jquery.json" t="Include" />
+              </e>
+              <e p="jquery-validation-unobtrusive" t="Include">
+                <e p=".bower.json" t="Include" />
+                <e p=".gitignore" t="Include" />
+                <e p="bower.json" t="Include" />
+                <e p="CONTRIBUTING.md" t="Include" />
+                <e p="jquery.validate.unobtrusive.js" t="Include" />
+                <e p="jquery.validate.unobtrusive.min.js" t="Include" />
+                <e p="LICENSE.txt" t="Include" />
+                <e p="README.md" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="shared" t="Include">
+        <e p="OpenIddict.Extensions" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Helpers" t="Include">
+            <e p="OpenIddictHelpers.cs" t="Include" />
+          </e>
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="OpenIddict.Extensions.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="OpenIddict.Extensions.csproj" t="IncludeRecursive" />
+        </e>
+      </e>
+      <e p="src" t="Include">
+        <e p="Keystone" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Keystone.csproj" t="IncludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp2.1" t="Include">
+                <e p="Keystone.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Keystone.Core" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Keystone.Core.csproj" t="IncludeRecursive" />
+          <e p="KeystoneCoreExtensions.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp2.1" t="Include">
+                <e p="Keystone.Core.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="OpenIddict" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="OpenIddict.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="OpenIddict.csproj" t="IncludeRecursive" />
+        </e>
+        <e p="OpenIddict.Abstractions" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Caches" t="Include">
+            <e p="IOpenIddictApplicationCache.cs" t="Include" />
+            <e p="IOpenIddictAuthorizationCache.cs" t="Include" />
+            <e p="IOpenIddictScopeCache.cs" t="Include" />
+            <e p="IOpenIddictTokenCache.cs" t="Include" />
+          </e>
+          <e p="Descriptors" t="Include">
+            <e p="OpenIddictApplicationDescriptor.cs" t="Include" />
+            <e p="OpenIddictAuthorizationDescriptor.cs" t="Include" />
+            <e p="OpenIddictScopeDescriptor.cs" t="Include" />
+            <e p="OpenIddictTokenDescriptor.cs" t="Include" />
+          </e>
+          <e p="Managers" t="Include">
+            <e p="IOpenIddictApplicationManager.cs" t="Include" />
+            <e p="IOpenIddictAuthorizationManager.cs" t="Include" />
+            <e p="IOpenIddictScopeManager.cs" t="Include" />
+            <e p="IOpenIddictTokenManager.cs" t="Include" />
+          </e>
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="OpenIddict.Abstractions.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="OpenIddict.Abstractions.csproj" t="IncludeRecursive" />
+          <e p="OpenIddictBuilder.cs" t="Include" />
+          <e p="OpenIddictConstants.cs" t="Include" />
+          <e p="OpenIddictExceptions.cs" t="Include" />
+          <e p="OpenIddictExtensions.cs" t="Include" />
+          <e p="Resolvers" t="Include">
+            <e p="IOpenIddictApplicationStoreResolver.cs" t="Include" />
+            <e p="IOpenIddictAuthorizationStoreResolver.cs" t="Include" />
+            <e p="IOpenIddictScopeStoreResolver.cs" t="Include" />
+            <e p="IOpenIddictTokenStoreResolver.cs" t="Include" />
+          </e>
+          <e p="Stores" t="Include">
+            <e p="IOpenIddictApplicationStore.cs" t="Include" />
+            <e p="IOpenIddictAuthorizationStore.cs" t="Include" />
+            <e p="IOpenIddictScopeStore.cs" t="Include" />
+            <e p="IOpenIddictTokenStore.cs" t="Include" />
+          </e>
+        </e>
+        <e p="OpenIddict.Core" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Caches" t="Include">
+            <e p="OpenIddictApplicationCache.cs" t="Include" />
+            <e p="OpenIddictAuthorizationCache.cs" t="Include" />
+            <e p="OpenIddictScopeCache.cs" t="Include" />
+            <e p="OpenIddictTokenCache.cs" t="Include" />
+          </e>
+          <e p="Helpers" t="Include" />
+          <e p="Managers" t="Include">
+            <e p="OpenIddictApplicationManager.cs" t="Include" />
+            <e p="OpenIddictAuthorizationManager.cs" t="Include" />
+            <e p="OpenIddictScopeManager.cs" t="Include" />
+            <e p="OpenIddictTokenManager.cs" t="Include" />
+          </e>
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="OpenIddict.Core.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="OpenIddict.Core.csproj" t="IncludeRecursive" />
+          <e p="OpenIddictCoreBuilder.cs" t="Include" />
+          <e p="OpenIddictCoreExtensions.cs" t="Include" />
+          <e p="OpenIddictCoreOptions.cs" t="Include" />
+          <e p="Resolvers" t="Include">
+            <e p="OpenIddictApplicationStoreResolver.cs" t="Include" />
+            <e p="OpenIddictAuthorizationStoreResolver.cs" t="Include" />
+            <e p="OpenIddictScopeStoreResolver.cs" t="Include" />
+            <e p="OpenIddictTokenStoreResolver.cs" t="Include" />
+          </e>
+        </e>
+        <e p="OpenIddict.EntityFramework" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Configurations" t="Include">
+            <e p="OpenIddictApplicationConfiguration.cs" t="Include" />
+            <e p="OpenIddictAuthorizationConfiguration.cs" t="Include" />
+            <e p="OpenIddictScopeConfiguration.cs" t="Include" />
+            <e p="OpenIddictTokenConfiguration.cs" t="Include" />
+          </e>
+          <e p="Helpers" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="net461" t="Include">
+                <e p="OpenIddict.EntityFramework.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="OpenIddict.EntityFramework.csproj" t="IncludeRecursive" />
+          <e p="OpenIddictEntityFrameworkBuilder.cs" t="Include" />
+          <e p="OpenIddictEntityFrameworkExtensions.cs" t="Include" />
+          <e p="OpenIddictEntityFrameworkHelpers.cs" t="Include" />
+          <e p="OpenIddictEntityFrameworkOptions.cs" t="Include" />
+          <e p="Resolvers" t="Include">
+            <e p="OpenIddictApplicationStoreResolver.cs" t="Include" />
+            <e p="OpenIddictAuthorizationStoreResolver.cs" t="Include" />
+            <e p="OpenIddictScopeStoreResolver.cs" t="Include" />
+            <e p="OpenIddictTokenStoreResolver.cs" t="Include" />
+          </e>
+          <e p="Stores" t="Include">
+            <e p="OpenIddictApplicationStore.cs" t="Include" />
+            <e p="OpenIddictAuthorizationStore.cs" t="Include" />
+            <e p="OpenIddictScopeStore.cs" t="Include" />
+            <e p="OpenIddictTokenStore.cs" t="Include" />
+          </e>
+        </e>
+        <e p="OpenIddict.EntityFramework.Models" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="OpenIddict.EntityFramework.Models.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="OpenIddict.EntityFramework.Models.csproj" t="IncludeRecursive" />
+          <e p="OpenIddictApplication.cs" t="Include" />
+          <e p="OpenIddictAuthorization.cs" t="Include" />
+          <e p="OpenIddictScope.cs" t="Include" />
+          <e p="OpenIddictToken.cs" t="Include" />
+        </e>
+        <e p="OpenIddict.EntityFrameworkCore" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Configurations" t="Include">
+            <e p="OpenIddictApplicationConfiguration.cs" t="Include" />
+            <e p="OpenIddictAuthorizationConfiguration.cs" t="Include" />
+            <e p="OpenIddictScopeConfiguration.cs" t="Include" />
+            <e p="OpenIddictTokenConfiguration.cs" t="Include" />
+          </e>
+          <e p="Helpers" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="OpenIddict.EntityFrameworkCore.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="OpenIddict.EntityFrameworkCore.csproj" t="IncludeRecursive" />
+          <e p="OpenIddictEntityFrameworkCoreBuilder.cs" t="Include" />
+          <e p="OpenIddictEntityFrameworkCoreCustomizer.cs" t="Include" />
+          <e p="OpenIddictEntityFrameworkCoreExtensions.cs" t="Include" />
+          <e p="OpenIddictEntityFrameworkCoreHelpers.cs" t="Include" />
+          <e p="OpenIddictEntityFrameworkCoreOptions.cs" t="Include" />
+          <e p="Resolvers" t="Include">
+            <e p="OpenIddictApplicationStoreResolver.cs" t="Include" />
+            <e p="OpenIddictAuthorizationStoreResolver.cs" t="Include" />
+            <e p="OpenIddictScopeStoreResolver.cs" t="Include" />
+            <e p="OpenIddictTokenStoreResolver.cs" t="Include" />
+          </e>
+          <e p="Stores" t="Include">
+            <e p="OpenIddictApplicationStore.cs" t="Include" />
+            <e p="OpenIddictAuthorizationStore.cs" t="Include" />
+            <e p="OpenIddictScopeStore.cs" t="Include" />
+            <e p="OpenIddictTokenStore.cs" t="Include" />
+          </e>
+        </e>
+        <e p="OpenIddict.EntityFrameworkCore.Models" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="OpenIddict.EntityFrameworkCore.Models.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="OpenIddict.EntityFrameworkCore.Models.csproj" t="IncludeRecursive" />
+          <e p="OpenIddictApplication.cs" t="Include" />
+          <e p="OpenIddictAuthorization.cs" t="Include" />
+          <e p="OpenIddictScope.cs" t="Include" />
+          <e p="OpenIddictToken.cs" t="Include" />
+        </e>
+        <e p="OpenIddict.MongoDb" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="IOpenIddictMongoDbContext.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="OpenIddict.MongoDb.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="OpenIddict.MongoDb.csproj" t="IncludeRecursive" />
+          <e p="OpenIddictMongoDbBuilder.cs" t="Include" />
+          <e p="OpenIddictMongoDbContext.cs" t="Include" />
+          <e p="OpenIddictMongoDbExtensions.cs" t="Include" />
+          <e p="OpenIddictMongoDbOptions.cs" t="Include" />
+          <e p="Resolvers" t="Include">
+            <e p="OpenIddictApplicationStoreResolver.cs" t="Include" />
+            <e p="OpenIddictAuthorizationStoreResolver.cs" t="Include" />
+            <e p="OpenIddictScopeStoreResolver.cs" t="Include" />
+            <e p="OpenIddictTokenStoreResolver.cs" t="Include" />
+          </e>
+          <e p="Stores" t="Include">
+            <e p="OpenIddictApplicationStore.cs" t="Include" />
+            <e p="OpenIddictAuthorizationStore.cs" t="Include" />
+            <e p="OpenIddictScopeStore.cs" t="Include" />
+            <e p="OpenIddictTokenStore.cs" t="Include" />
+          </e>
+        </e>
+        <e p="OpenIddict.MongoDb.Models" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="OpenIddict.MongoDb.Models.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="OpenIddict.MongoDb.Models.csproj" t="IncludeRecursive" />
+          <e p="OpenIddictApplication.cs" t="Include" />
+          <e p="OpenIddictAuthorization.cs" t="Include" />
+          <e p="OpenIddictScope.cs" t="Include" />
+          <e p="OpenIddictToken.cs" t="Include" />
+        </e>
+        <e p="OpenIddict.Mvc" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Internal" t="Include">
+            <e p="OpenIddictMvcBinder.cs" t="Include" />
+            <e p="OpenIddictMvcBinderProvider.cs" t="Include" />
+            <e p="OpenIddictMvcConfiguration.cs" t="Include" />
+          </e>
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="OpenIddict.Mvc.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="OpenIddict.Mvc.csproj" t="IncludeRecursive" />
+          <e p="OpenIddictMvcBuilder.cs" t="Include" />
+          <e p="OpenIddictMvcExtensions.cs" t="Include" />
+          <e p="OpenIddictMvcOptions.cs" t="Include" />
+        </e>
+        <e p="OpenIddict.Server" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Helpers" t="Include" />
+          <e p="Internal" t="Include">
+            <e p="OpenIddictServerConfiguration.cs" t="Include" />
+            <e p="OpenIddictServerHandler.cs" t="Include" />
+            <e p="OpenIddictServerProvider.Authentication.cs" t="Include" />
+            <e p="OpenIddictServerProvider.cs" t="Include" />
+            <e p="OpenIddictServerProvider.Discovery.cs" t="Include" />
+            <e p="OpenIddictServerProvider.Exchange.cs" t="Include" />
+            <e p="OpenIddictServerProvider.Helpers.cs" t="Include" />
+            <e p="OpenIddictServerProvider.Introspection.cs" t="Include" />
+            <e p="OpenIddictServerProvider.Revocation.cs" t="Include" />
+            <e p="OpenIddictServerProvider.Serialization.cs" t="Include" />
+            <e p="OpenIddictServerProvider.Session.cs" t="Include" />
+            <e p="OpenIddictServerProvider.Userinfo.cs" t="Include" />
+          </e>
+          <e p="IOpenIddictServerEvent.cs" t="Include" />
+          <e p="IOpenIddictServerEventDispatcher.cs" t="Include" />
+          <e p="IOpenIddictServerEventHandler.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="OpenIddict.Server.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="OpenIddict.Server.csproj" t="IncludeRecursive" />
+          <e p="OpenIddictServerBuilder.cs" t="Include" />
+          <e p="OpenIddictServerDefaults.cs" t="Include" />
+          <e p="OpenIddictServerEvent.cs" t="Include" />
+          <e p="OpenIddictServerEventDispatcher.cs" t="Include" />
+          <e p="OpenIddictServerEventHandler.cs" t="Include" />
+          <e p="OpenIddictServerEvents.cs" t="Include" />
+          <e p="OpenIddictServerEventState.cs" t="Include" />
+          <e p="OpenIddictServerExtensions.cs" t="Include" />
+          <e p="OpenIddictServerHelpers.cs" t="Include" />
+          <e p="OpenIddictServerOptions.cs" t="Include" />
+        </e>
+        <e p="OpenIddict.Validation" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Helpers" t="Include" />
+          <e p="Internal" t="Include">
+            <e p="OpenIddictValidationConfiguration.cs" t="Include" />
+            <e p="OpenIddictValidationHandler.cs" t="Include" />
+            <e p="OpenIddictValidationHelpers.cs" t="Include" />
+            <e p="OpenIddictValidationProvider.cs" t="Include" />
+          </e>
+          <e p="IOpenIddictValidationEvent.cs" t="Include" />
+          <e p="IOpenIddictValidationEventDispatcher.cs" t="Include" />
+          <e p="IOpenIddictValidationEventHandler.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="OpenIddict.Validation.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="OpenIddict.Validation.csproj" t="IncludeRecursive" />
+          <e p="OpenIddictValidationBuilder.cs" t="Include" />
+          <e p="OpenIddictValidationDefaults.cs" t="Include" />
+          <e p="OpenIddictValidationEvent.cs" t="Include" />
+          <e p="OpenIddictValidationEventDispatcher.cs" t="Include" />
+          <e p="OpenIddictValidationEventHandler.cs" t="Include" />
+          <e p="OpenIddictValidationEvents.cs" t="Include" />
+          <e p="OpenIddictValidationEventState.cs" t="Include" />
+          <e p="OpenIddictValidationExtensions.cs" t="Include" />
+          <e p="OpenIddictValidationOptions.cs" t="Include" />
+        </e>
+      </e>
+      <e p="test" t="Include">
+        <e p="OpenIddict.Abstractions.Tests" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="net461" t="Include">
+                <e p="OpenIddict.Abstractions.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+              <e p="netcoreapp2.0" t="Include">
+                <e p="OpenIddict.Abstractions.Tests.AssemblyInfo.cs" t="Include" />
+                <e p="OpenIddict.Abstractions.Tests.Program.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="OpenIddict.Abstractions.Tests.csproj" t="IncludeRecursive" />
+          <e p="OpenIddictBuilderTests.cs" t="Include" />
+          <e p="OpenIddictExtensionsTests.cs" t="Include" />
+        </e>
+        <e p="OpenIddict.Core.Tests" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="net461" t="Include">
+                <e p="OpenIddict.Core.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+              <e p="netcoreapp2.0" t="Include">
+                <e p="OpenIddict.Core.Tests.AssemblyInfo.cs" t="Include" />
+                <e p="OpenIddict.Core.Tests.Program.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="OpenIddict.Core.Tests.csproj" t="IncludeRecursive" />
+          <e p="OpenIddictCoreBuilderTests.cs" t="Include" />
+          <e p="OpenIddictCoreExtensionsTests.cs" t="Include" />
+          <e p="Resolvers" t="Include">
+            <e p="OpenIddictApplicationStoreResolverTests.cs" t="Include" />
+            <e p="OpenIddictAuthorizationStoreResolverTests.cs" t="Include" />
+            <e p="OpenIddictScopeStoreResolverTests.cs" t="Include" />
+            <e p="OpenIddictTokenStoreResolverTests.cs" t="Include" />
+          </e>
+        </e>
+        <e p="OpenIddict.EntityFramework.Tests" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="net461" t="Include">
+                <e p="OpenIddict.EntityFramework.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="OpenIddict.EntityFramework.Tests.csproj" t="IncludeRecursive" />
+          <e p="OpenIddictEntityFrameworkBuilderTests.cs" t="Include" />
+          <e p="OpenIddictEntityFrameworkExtensionsTests.cs" t="Include" />
+          <e p="Resolvers" t="Include">
+            <e p="OpenIddictApplicationStoreResolverTests.cs" t="Include" />
+            <e p="OpenIddictAuthorizationStoreResolverTests.cs" t="Include" />
+            <e p="OpenIddictScopeStoreResolverTests.cs" t="Include" />
+            <e p="OpenIddictTokenStoreResolverTests.cs" t="Include" />
+          </e>
+        </e>
+        <e p="OpenIddict.EntityFrameworkCore.Tests" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="net461" t="Include">
+                <e p="OpenIddict.EntityFrameworkCore.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+              <e p="netcoreapp2.0" t="Include">
+                <e p="OpenIddict.EntityFrameworkCore.Tests.AssemblyInfo.cs" t="Include" />
+                <e p="OpenIddict.EntityFrameworkCore.Tests.Program.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="OpenIddict.EntityFrameworkCore.Tests.csproj" t="IncludeRecursive" />
+          <e p="OpenIddictEntityFrameworkCoreBuilderTests.cs" t="Include" />
+          <e p="OpenIddictEntityFrameworkCoreExtensionsTests.cs" t="Include" />
+          <e p="OpenIddictEntityFrameworkCoreHelpersTests.cs" t="Include" />
+          <e p="Resolvers" t="Include">
+            <e p="OpenIddictApplicationStoreResolverTests.cs" t="Include" />
+            <e p="OpenIddictAuthorizationStoreResolverTests.cs" t="Include" />
+            <e p="OpenIddictScopeStoreResolverTests.cs" t="Include" />
+            <e p="OpenIddictTokenStoreResolverTests.cs" t="Include" />
+          </e>
+        </e>
+        <e p="OpenIddict.MongoDb.Tests" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="net461" t="Include">
+                <e p="OpenIddict.MongoDb.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+              <e p="netcoreapp2.0" t="Include">
+                <e p="OpenIddict.MongoDb.Tests.AssemblyInfo.cs" t="Include" />
+                <e p="OpenIddict.MongoDb.Tests.Program.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="OpenIddict.MongoDb.Tests.csproj" t="IncludeRecursive" />
+          <e p="OpenIddictMongoDbBuilderTests.cs" t="Include" />
+          <e p="OpenIddictMongoDbContextTests.cs" t="Include" />
+          <e p="OpenIddictMongoDbExtensionsTests.cs" t="Include" />
+          <e p="Resolvers" t="Include">
+            <e p="OpenIddictApplicationStoreResolverTests.cs" t="Include" />
+            <e p="OpenIddictAuthorizationStoreResolverTests.cs" t="Include" />
+            <e p="OpenIddictScopeStoreResolverTests.cs" t="Include" />
+            <e p="OpenIddictTokenStoreResolverTests.cs" t="Include" />
+          </e>
+        </e>
+        <e p="OpenIddict.Mvc.Tests" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Internal" t="Include">
+            <e p="OpenIddictMvcConfigurationTests.cs" t="Include" />
+            <e p="OpenIddictMvcModelBinderProviderTests.cs" t="Include" />
+            <e p="OpenIddictMvcModelBinderTests.cs" t="Include" />
+          </e>
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="net461" t="Include">
+                <e p="OpenIddict.Mvc.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+              <e p="netcoreapp2.0" t="Include">
+                <e p="OpenIddict.Mvc.Tests.AssemblyInfo.cs" t="Include" />
+                <e p="OpenIddict.Mvc.Tests.Program.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="OpenIddict.Mvc.Tests.csproj" t="IncludeRecursive" />
+          <e p="OpenIddictMvcBuilderTests.cs" t="Include" />
+          <e p="OpenIddictMvcExtensionsTests.cs" t="Include" />
+        </e>
+        <e p="OpenIddict.Server.Tests" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Certificate.pfx" t="Include" />
+          <e p="Internal" t="Include">
+            <e p="OpenIddictServerConfigurationTests.cs" t="Include" />
+            <e p="OpenIddictServerProviderTests.Authentication.cs" t="Include" />
+            <e p="OpenIddictServerProviderTests.cs" t="Include" />
+            <e p="OpenIddictServerProviderTests.Discovery.cs" t="Include" />
+            <e p="OpenIddictServerProviderTests.Exchange.cs" t="Include" />
+            <e p="OpenIddictServerProviderTests.Introspection.cs" t="Include" />
+            <e p="OpenIddictServerProviderTests.Revocation.cs" t="Include" />
+            <e p="OpenIddictServerProviderTests.Serialization.cs" t="Include" />
+            <e p="OpenIddictServerProviderTests.Session.cs" t="Include" />
+            <e p="OpenIddictServerProviderTests.Userinfo.cs" t="Include" />
+          </e>
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="net461" t="Include">
+                <e p="OpenIddict.Server.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+              <e p="netcoreapp2.0" t="Include">
+                <e p="OpenIddict.Server.Tests.AssemblyInfo.cs" t="Include" />
+                <e p="OpenIddict.Server.Tests.Program.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="OpenIddict.Server.Tests.csproj" t="IncludeRecursive" />
+          <e p="OpenIddictServerBuilderTests.cs" t="Include" />
+          <e p="OpenIddictServerEventDispatcherTests.cs" t="Include" />
+          <e p="OpenIddictServerEventHandlerTests.cs" t="Include" />
+          <e p="OpenIddictServerExtensionsTests.cs" t="Include" />
+        </e>
+        <e p="OpenIddict.Validation.Tests" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Internal" t="Include">
+            <e p="OpenIddictValidationConfigurationTests.cs" t="Include" />
+            <e p="OpenIddictValidationProviderTests.cs" t="Include" />
+          </e>
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="net461" t="Include">
+                <e p="OpenIddict.Validation.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+              <e p="netcoreapp2.0" t="Include">
+                <e p="OpenIddict.Validation.Tests.AssemblyInfo.cs" t="Include" />
+                <e p="OpenIddict.Validation.Tests.Program.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="OpenIddict.Validation.Tests.csproj" t="IncludeRecursive" />
+          <e p="OpenIddictValidationBuilderTests.cs" t="Include" />
+          <e p="OpenIddictValidationEventDispatcherTests.cs" t="Include" />
+          <e p="OpenIddictValidationEventHandlerTests.cs" t="Include" />
+          <e p="OpenIddictValidationExtensionsTests.cs" t="Include" />
+        </e>
+      </e>
+    </e>
+  </component>
+</project>

@@ -1,0 +1,1428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa1de51d-0fdc-4b5c-9357-94f2f1a1b2a5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-860220344">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="31" />
+          <entry key="csproj" value="5" />
+          <entry key="json" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="31" />
+          <entry key="Csproj" value="5" />
+          <entry key="JSON" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="459" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="459" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/samples/Mvc.Server/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="57" column="15" lean-forward="true" selection-start-line="57" selection-start-column="15" selection-end-line="57" selection-end-column="15" />
+              <folding>
+                <marker date="1543620823117" expanded="false" signature="6:427" ph="..." />
+                <marker date="1543620823117" expanded="true" signature="449:11133" ph="{...}" />
+                <marker date="1543620823117" expanded="true" signature="476:11131" ph="{...}" />
+                <marker date="1543620823117" expanded="true" signature="535:598" ph="{...}" />
+                <marker date="1543620823117" expanded="true" signature="721:6815" ph="{...}" />
+                <marker date="1543620823117" expanded="true" signature="830:1259" ph="{...}" />
+                <marker date="1543620823117" expanded="true" signature="1030:1204" ph="/* Register the entity sets needed by OpenIddict. ... */" />
+                <marker date="1543620823117" expanded="true" signature="1336:1481" ph="/* services.AddIdentity&lt;ApplicationUser, IdentityRole&gt;() ... */" />
+                <marker date="1543620823117" expanded="true" signature="1495:1736" ph="/* Configure Identity to use the same JWT claims as OpenIddict instead ... */" />
+                <marker date="1543620823117" expanded="true" signature="1795:2096" ph="{...}" />
+                <marker date="1543620823117" expanded="true" signature="2178:2400" ph="{...}" />
+                <marker date="1543620823117" expanded="true" signature="2441:2633" ph="{...}" />
+                <marker date="1543620823117" expanded="true" signature="2768:3019" ph="{...}" />
+                <marker date="1543620823117" expanded="true" signature="3118:6306" ph="{...}" />
+                <marker date="1543620823117" expanded="true" signature="3157:3385" ph="/* Register the ASP.NET Core MVC services used by OpenIddict. ... */" />
+                <marker date="1543620823117" expanded="true" signature="3814:4004" ph="/* Note: the Mvc.Client sample only uses the code flow and the password flow, but you ... */" />
+                <marker date="1543620823117" expanded="true" signature="4510:4945" ph="/* When request caching is enabled, authorization and logout requests ... */" />
+                <marker date="1543620823117" expanded="true" signature="5157:6288" ph="/* Note: to use JWT access tokens instead of the default ... */" />
+                <marker date="1543620823117" expanded="true" signature="6325:6632" ph="/* Register the OpenIddict validation handler. ... */" />
+                <marker date="1543620823117" expanded="true" signature="6871:7520" ph="{...}" />
+                <marker date="1543620823117" expanded="true" signature="6965:7091" ph="{...}" />
+                <marker date="1543620823117" expanded="true" signature="7295:7439" ph="/* Seed the database with the sample applications. ... */" />
+                <marker date="1543620823117" expanded="true" signature="7591:11125" ph="{...}" />
+                <marker date="1543620823117" expanded="true" signature="7821:11115" ph="{...}" />
+                <marker date="1543620823117" expanded="true" signature="8193:9520" ph="{...}" />
+                <marker date="1543620823117" expanded="true" signature="8305:9441" ph="{...}" />
+                <marker date="1543620823117" expanded="true" signature="8754:9419" ph="{...}" />
+                <marker date="1543620823117" expanded="true" signature="9538:10055" ph="/* To test this sample with Postman, use the following settings: ... */" />
+                <marker date="1543620823117" expanded="true" signature="10129:11101" ph="{...}" />
+                <marker date="1543620823117" expanded="true" signature="10241:11022" ph="{...}" />
+                <marker date="1543620823117" expanded="true" signature="10498:11000" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OpenIddict.EntityFrameworkCore/OpenIddictEntityFrameworkCoreHelpers.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="48" column="92" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="92" />
+              <folding>
+                <marker date="1543529914814" expanded="true" signature="0:253" ph="/* Licensed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0) ... */" />
+                <marker date="1543529914814" expanded="false" signature="261:432" ph="..." />
+                <marker date="1543529914814" expanded="true" signature="473:6366" ph="{...}" />
+                <marker date="1543529914814" expanded="true" signature="480:610" ph="/// Exposes extensions allowing to register the OpenIddict Entity Framework Core entity sets. ... " />
+                <marker date="1543529914814" expanded="true" signature="671:6364" ph="{...}" />
+                <marker date="1543529914814" expanded="true" signature="686:1062" ph="/// Registers the OpenIddict entity sets in the Entity Framework Core context ... " />
+                <marker date="1543529914814" expanded="true" signature="1421:1791" ph="/// Registers the OpenIddict entity sets in the Entity Framework Core  ... " />
+                <marker date="1543529914814" expanded="true" signature="2220:2582" ph="/// Registers the OpenIddict entity sets in the Entity Framework Core ... " />
+                <marker date="1543529914814" expanded="true" signature="3084:3405" ph="{...}" />
+                <marker date="1543529914814" expanded="true" signature="3127:3221" ph="{...}" />
+                <marker date="1543529914814" expanded="true" signature="3415:3791" ph="/// Registers the OpenIddict entity sets in the Entity Framework Core context ... " />
+                <marker date="1543529914814" expanded="true" signature="4128:4497" ph="/// Registers the OpenIddict entity sets in the Entity Framework Core ... " />
+                <marker date="1543529914814" expanded="true" signature="4892:5254" ph="/// Registers the OpenIddict entity sets in the Entity Framework Core ... " />
+                <marker date="1543529914814" expanded="true" signature="5734:6358" ph="{...}" />
+                <marker date="1543529914814" expanded="true" signature="5777:5871" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OpenIddict.EntityFrameworkCore/OpenIddictEntityFrameworkCoreExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+              <folding>
+                <marker date="1543529914814" expanded="true" signature="0:253" ph="/* Licensed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0) ... */" />
+                <marker date="1543529914814" expanded="false" signature="261:528" ph="..." />
+                <marker date="1543529914814" expanded="true" signature="580:4170" ph="{...}" />
+                <marker date="1543529914814" expanded="true" signature="587:714" ph="/// Exposes extensions allowing to register the OpenIddict Entity Framework Core services. ... " />
+                <marker date="1543529914814" expanded="true" signature="778:4168" ph="{...}" />
+                <marker date="1543529914814" expanded="true" signature="793:1283" ph="/// Registers the Entity Framework Core stores services in the DI container and ... " />
+                <marker date="1543529914814" expanded="true" signature="1411:2962" ph="{...}" />
+                <marker date="1543529914814" expanded="true" signature="1454:1548" ph="{...}" />
+                <marker date="1543529914814" expanded="true" signature="1562:1841" ph="/* Since Entity Framework Core may be used with databases performing case-insensitive ... */" />
+                <marker date="1543529914814" expanded="true" signature="2972:3576" ph="/// Registers the Entity Framework Core stores services in the DI container and ... " />
+                <marker date="1543529914814" expanded="true" signature="3784:4162" ph="{...}" />
+                <marker date="1543529914814" expanded="true" signature="3827:3921" ph="{...}" />
+                <marker date="1543529914814" expanded="true" signature="3961:4061" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OpenIddict.Core/Managers/OpenIddictApplicationManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="242" column="12" selection-start-line="242" selection-start-column="12" selection-end-line="242" selection-end-column="12" />
+              <folding>
+                <marker date="1543619664013" expanded="true" signature="0:253" ph="/* Licensed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0) ... */" />
+                <marker date="1543619664013" expanded="false" signature="261:593" ph="..." />
+                <marker date="1543619664013" expanded="true" signature="620:66848" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="627:828" ph="/// Provides methods allowing to manage the applications stored in the store. ... " />
+                <marker date="1543619664013" expanded="true" signature="947:66846" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="1289:1446" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="1456:1556" ph="/// Gets the cache associated with the current manager. ... " />
+                <marker date="1543619664013" expanded="true" signature="1641:1742" ph="/// Gets the logger associated with the current manager. ... " />
+                <marker date="1543619664013" expanded="true" signature="1794:1896" ph="/// Gets the options associated with the current manager. ... " />
+                <marker date="1543619664013" expanded="true" signature="1980:2080" ph="/// Gets the store associated with the current manager. ... " />
+                <marker date="1543619664013" expanded="true" signature="2165:2619" ph="/// Determines the number of applications that exist in the database. ... " />
+                <marker date="1543619664013" expanded="true" signature="2773:3375" ph="/// Determines the number of applications that match the specified query. ... " />
+                <marker date="1543619664013" expanded="true" signature="3558:3765" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="3599:3691" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="3775:4186" ph="/// Creates a new application. ... " />
+                <marker date="1543619664013" expanded="true" signature="4393:5064" ph="/// Creates a new application. ... " />
+                <marker date="1543619664013" expanded="true" signature="5245:7354" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="5292:5390" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="5496:5657" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="5897:6163" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="6273:6477" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="6632:7115" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="6906:7003" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="7246:7344" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="7364:8050" ph="/// Creates a new application based on the specified descriptor. ... " />
+                <marker date="1543619664013" expanded="true" signature="8224:9199" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="8270:8367" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="8484:8628" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="8845:9044" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="9061:9156" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="9209:9626" ph="/// Removes an existing application. ... " />
+                <marker date="1543619664013" expanded="true" signature="9755:10142" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="9802:9900" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="9961:10062" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="10152:10706" ph="/// Retrieves an application using its client identifier. ... " />
+                <marker date="1543619664013" expanded="true" signature="10863:11985" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="10923:11059" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="11333:11390" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="11404:11741" ph="/* SQL engines like Microsoft SQL Server or MySQL are known to use case-insensitive lookups by default. ... */" />
+                <marker date="1543619664013" expanded="true" signature="11742:11942" ph="/* if (!Options.CurrentValue.DisableAdditionalFiltering &amp;&amp; ... */" />
+                <marker date="1543619664013" expanded="true" signature="11995:12549" ph="/// Retrieves an application using its unique identifier. ... " />
+                <marker date="1543619664013" expanded="true" signature="12687:13847" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="12747:12883" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="13145:13202" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="13216:13553" ph="/* SQL engines like Microsoft SQL Server or MySQL are known to use case-insensitive lookups by default. ... */" />
+                <marker date="1543619664013" expanded="true" signature="13747:13804" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="13857:14474" ph="/// Retrieves all the applications associated with the specified post_logout_redirect_uri. ... " />
+                <marker date="1543619664013" expanded="true" signature="14657:16481" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="14714:14844" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="15140:15230" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="15296:15361" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="15375:15712" ph="/* SQL engines like Microsoft SQL Server or MySQL are known to use case-insensitive lookups by default. ... */" />
+                <marker date="1543619664013" expanded="true" signature="15859:16332" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="15985:16318" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="16206:16300" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="16491:17072" ph="/// Retrieves all the applications associated with the specified redirect_uri. ... " />
+                <marker date="1543619664013" expanded="true" signature="17245:19039" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="17302:17432" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="17708:17798" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="17864:17929" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="17943:18280" ph="/* SQL engines like Microsoft SQL Server or MySQL are known to use case-insensitive lookups by default. ... */" />
+                <marker date="1543619664013" expanded="true" signature="18427:18890" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="18543:18876" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="18764:18858" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="19049:19635" ph="/// Executes the specified query and returns the first element. ... " />
+                <marker date="1543619664013" expanded="true" signature="19819:20064" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="19860:19952" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="20074:20785" ph="/// Executes the specified query and returns the first element. ... " />
+                <marker date="1543619664013" expanded="true" signature="21023:21235" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="21064:21156" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="21245:21785" ph="/// Retrieves the client identifier associated with an application. ... " />
+                <marker date="1543619664013" expanded="true" signature="21939:22170" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="21986:22084" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="22180:22718" ph="/// Retrieves the client type associated with an application. ... " />
+                <marker date="1543619664013" expanded="true" signature="22874:23107" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="22921:23019" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="23117:23659" ph="/// Retrieves the consent type associated with an application. ... " />
+                <marker date="1543619664013" expanded="true" signature="23822:24230" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="23869:23967" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="24100:24194" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="24240:24770" ph="/// Retrieves the display name associated with an application. ... " />
+                <marker date="1543619664013" expanded="true" signature="24927:25161" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="24974:25072" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="25171:25711" ph="/// Retrieves the unique identifier associated with an application. ... " />
+                <marker date="1543619664013" expanded="true" signature="25846:26071" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="25893:25991" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="26081:26613" ph="/// Retrieves the permissions associated with an application. ... " />
+                <marker date="1543619664013" expanded="true" signature="26786:27020" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="26833:26931" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="27030:27589" ph="/// Retrieves the logout callback addresses associated with an application. ... " />
+                <marker date="1543619664013" expanded="true" signature="27773:28018" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="27820:27918" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="28028:28568" ph="/// Retrieves the callback addresses associated with an application. ... " />
+                <marker date="1543619664013" expanded="true" signature="28742:28977" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="28789:28887" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="28987:29498" ph="/// Determines whether the specified permission has been granted to the application. ... " />
+                <marker date="1543619664013" expanded="true" signature="29682:30131" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="29729:29827" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="29878:30019" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="30141:30553" ph="/// Determines whether an application is a confidential client. ... " />
+                <marker date="1543619664013" expanded="true" signature="30688:31150" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="30735:30833" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="30959:31017" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="31160:31560" ph="/// Determines whether an application is a hybrid client. ... " />
+                <marker date="1543619664013" expanded="true" signature="31689:32145" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="31736:31834" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="31960:32018" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="32155:32555" ph="/// Determines whether an application is a public client. ... " />
+                <marker date="1543619664013" expanded="true" signature="32684:33229" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="32731:32829" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="33045:33102" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="33239:33863" ph="/// Executes the specified query and returns all the corresponding elements. ... " />
+                <marker date="1543619664013" expanded="true" signature="34054:34144" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="34154:34762" ph="/// Executes the specified query and returns all the corresponding elements. ... " />
+                <marker date="1543619664013" expanded="true" signature="34963:35209" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="35004:35096" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="35219:35952" ph="/// Executes the specified query and returns all the corresponding elements. ... " />
+                <marker date="1543619664013" expanded="true" signature="36207:36420" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="36248:36340" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="36430:36923" ph="/// Populates the application using the specified descriptor. ... " />
+                <marker date="1543619664013" expanded="true" signature="37120:38432" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="37167:37265" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="37302:37399" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="38442:38961" ph="/// Populates the specified descriptor using the properties exposed by the application. ... " />
+                <marker date="1543619664013" expanded="true" signature="39171:41690" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="39217:39314" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="39352:39450" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="40317:40952" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="40442:40569" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="40746:40877" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="41055:41680" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="41180:41307" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="41484:41615" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="41700:42117" ph="/// Updates an existing application. ... " />
+                <marker date="1543619664013" expanded="true" signature="42246:43347" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="42293:42391" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="42546:43035" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="42826:42923" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="43166:43337" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="43357:44052" ph="/// Updates an existing application and replaces the existing secret. ... " />
+                <marker date="1543619664013" expanded="true" signature="44220:44824" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="44267:44365" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="44412:44528" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="44546:44750" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="44834:45343" ph="/// Updates an existing application. ... " />
+                <marker date="1543619664013" expanded="true" signature="45538:46526" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="45585:45683" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="45720:45817" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="46324:46452" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="46536:47073" ph="/// Validates the application to ensure it's in a consistent state. ... " />
+                <marker date="1543619664013" expanded="true" signature="47251:52304" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="47298:47396" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="47725:47854" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="47872:48808" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="47903:48319" ph="/* Note: depending on the database/table/query collation used by the store, an application ... */" />
+                <marker date="1543619664013" expanded="true" signature="48637:48794" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="48940:49063" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="49081:50782" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="49535:49792" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="50164:50332" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="50610:50768" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="50796:50963" ph="/* When callback URLs are specified, ensure they are valid and spec-compliant. ... */" />
+                <marker date="1543619664013" expanded="true" signature="51226:52155" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="51351:51512" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="51689:51854" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="51978:52141" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="52314:53068" ph="/// Validates the client_secret associated with an application. ... " />
+                <marker date="1543619664013" expanded="true" signature="53245:54332" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="53292:53390" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="53460:53623" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="53759:53995" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="54080:54296" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="54342:55009" ph="/// Validates the redirect_uri to ensure it's associated with an application. ... " />
+                <marker date="1543619664013" expanded="true" signature="55196:56272" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="55243:55341" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="55389:55519" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="55618:56008" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="55649:55850" ph="/* Note: the redirect_uri must be compared using case-sensitive &quot;Simple String Comparison&quot;. ... */" />
+                <marker date="1543619664013" expanded="true" signature="55925:55994" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="56282:56833" ph="/// Obfuscates the specified client secret so it can be safely stored in a database. ... " />
+                <marker date="1543619664013" expanded="true" signature="56971:57231" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="57027:57155" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="57241:58066" ph="/// Validates the specified value to ensure it corresponds to the client secret. ... " />
+                <marker date="1543619664013" expanded="true" signature="58242:59094" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="58298:58426" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="58476:58610" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="58627:58743" ph="{...}" />
+                <marker date="1543619664013" expanded="true" signature="58784:59084" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samples/Mvc.Server/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+              <folding>
+                <marker date="1543615742929" expanded="false" signature="6:63" ph="..." />
+                <marker date="1543615742929" expanded="true" signature="85:468" ph="{...}" />
+                <marker date="1543615742929" expanded="true" signature="119:466" ph="{...}" />
+                <marker date="1543615742929" expanded="true" signature="275:460" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AE06725F-8541-40D1-9979-13239744E108/9c/3aaec8b8/AuthenticationServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0998BF91-1F01-4E78-84D2-695C95A67016/dd/c4d6d853/EntityFrameworkServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C721E1B2-3805-492A-8C15-C525D0AC477A/f1/cd146c25/OpenIdConnectServerExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1F2AA129-F069-4627-816C-2BCA09FD4D1E/e9/bfd2ed69/GoogleExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ACA35230-58BD-4287-889D-3255E820DE9D/59/1d2c3fb1/SqlServerDbContextOptionsExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/OpenIddict.EntityFrameworkCore/OpenIddictEntityFrameworkCoreHelpers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/61067752-51F4-4A82-B55D-1D872C260AED/9a/1a305ad7/OpenIdConnectServerExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/OpenIddict.Core/OpenIddictCoreBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/11A24722-B687-485F-B7C0-A5DA34B5B018/0b/1d124cf3/CallSiteRuntimeResolver.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/OpenIddict.Core/OpenIddictCoreExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/samples/Mvc.Server/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/OpenIddict.EntityFrameworkCore/OpenIddictEntityFrameworkCoreExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/samples/Mvc.Server/Models/ApplicationDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B3824083-29EE-4512-A838-FCA9F4A05F42/30/853ead8a/ActivatorUtilities.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/11A24722-B687-485F-B7C0-A5DA34B5B018/93/ba186642/CallSiteVisitor`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/11A24722-B687-485F-B7C0-A5DA34B5B018/ad/39abcd49/ServiceProvider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/samples/Mvc.Server/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B3824083-29EE-4512-A838-FCA9F4A05F42/6c/73adce00/ServiceProviderServiceExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7469EA46-1AEA-47E2-BA3B-AAD4E0506E84/6f/67305e20/MvcApplicationBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/OpenIddict.Core/Managers/OpenIddictApplicationManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AE06725F-8541-40D1-9979-13239744E108/75/96695235/AuthAppBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78D88D60-A7EE-4F2D-AFE8-7DC6F83A9E0E/70/1b7e7a06/StatusCodePagesExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Keystone.Core/KeystoneCoreExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9BDBBF39-CD35-4D50-8D08-16FAC22306EF/3a/f2573fe6/StaticFileExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/93AD6F40-40A9-4D0E-9FCB-E91C84A485A4/50/85d21f6b/NotNullAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/samples/Mvc.Server/Program.cs" />
+        <option value="$PROJECT_DIR$/src/Keystone/Class1.cs" />
+        <option value="$PROJECT_DIR$/src/Keystone.Core/Class1.cs" />
+        <option value="$PROJECT_DIR$/src/Keystone.Core/KeystoneCoreExtensions.cs" />
+        <option value="$PROJECT_DIR$/src/OpenIddict.Core/Managers/OpenIddictApplicationManager.cs" />
+        <option value="$PROJECT_DIR$/samples/Mvc.Server/Startup.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/samples/Mvc.Server/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/samples/Mvc.Server/package.json" />
+      <path value="$PROJECT_DIR$/samples/Mvc.Server/wwwroot/lib/bootstrap-touch-carousel/package.json" />
+      <path value="$PROJECT_DIR$/samples/Mvc.Server/wwwroot/lib/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/samples/Mvc.Server/wwwroot/lib/hammer.js/package.json" />
+      <path value="$PROJECT_DIR$/samples/Mvc.Server/wwwroot/lib/jquery-validation/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1667" />
+    <option name="height" value="1417" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <autoscrollToSource SolutionExplorer="false" />
+      <autoscrollFromSource SolutionExplorer="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpenIddict" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpenIddict" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="samples" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpenIddict" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="samples" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Mvc.Server" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpenIddict" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="samples" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Mvc.Server" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpenIddict" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpenIddict" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Keystone" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpenIddict" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Keystone.Core" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpenIddict" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="OpenIddict" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpenIddict" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="OpenIddict.Core" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpenIddict" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="OpenIddict.Core" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Managers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpenIddict" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="OpenIddict.EntityFrameworkCore" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.samples\Mvc.Server">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="samples\Mvc.Server" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/samples/Mvc.Server/Mvc.Server.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+      <item itemvalue=".NET Project.samples\Mvc.Server" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.samples\Mvc.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa1de51d-0fdc-4b5c-9357-94f2f1a1b2a5" name="Default Changelist" comment="" />
+      <created>1543531246043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543531246043</updated>
+      <workItem from="1543531247534" duration="558000" />
+      <workItem from="1543602874781" duration="7042000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7600000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1667" height="1417" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49932706" visible="true" weight="0.21128526" />
+      <window_info id="Structure" order="1" sideWeight="0.50067294" weight="0.23799434" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32962668" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32972136" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.40984908" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32962668" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="REST Client" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.29864973" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/samples/Mvc.Server/Startup.cs</url>
+          <line>38</line>
+          <properties documentPath="$PROJECT_DIR$/samples/Mvc.Server/Startup.cs" initialLine="38">
+            <startOffsets>
+              <option value="1221" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1245" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/samples/Mvc.Server/Startup.cs</url>
+          <line>156</line>
+          <properties documentPath="$PROJECT_DIR$/samples/Mvc.Server/Startup.cs" initialLine="154">
+            <startOffsets>
+              <option value="7004" />
+            </startOffsets>
+            <endOffsets>
+              <option value="7038" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="DotNetProject">
+        <watch expression="Microsoft.AspNetCore.Http.HttpContext" language="C#" custom="RiderImportsList:" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>Microsoft.AspNetCore.Http.HttpContext</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>Microsoft.AspNetCore.Http.HttpContext</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>HttpContext</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>HttpContext</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:Microsoft.AspNetCore.Http</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/samples/Mvc.Server/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Mvc.Server/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Mvc.Server/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Mvc.Server/Mvc.Server.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/61067752-51F4-4A82-B55D-1D872C260AED/9a/1a305ad7/OpenIdConnectServerExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7260">
+          <caret line="390" selection-start-line="390" selection-end-line="390" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Keystone/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Keystone/Keystone.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C721E1B2-3805-492A-8C15-C525D0AC477A/f1/cd146c25/OpenIdConnectServerExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="367" column="5" selection-start-line="367" selection-start-column="5" selection-end-line="367" selection-end-column="5" />
+          <folding>
+            <marker date="1543617969503" expanded="true" signature="0:440" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1543617969503" expanded="false" signature="448:914" ph="..." />
+            <marker date="1543617969503" expanded="true" signature="966:23711" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="971:1205" ph="/// Provides extension methods allowing to easily register an ... " />
+            <marker date="1543617969503" expanded="true" signature="1257:23709" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="1266:1499" ph="/// Adds a new OpenID Connect server instance in the ASP.NET Core pipeline. ... " />
+            <marker date="1543617969503" expanded="true" signature="1598:1663" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="1669:2069" ph="/// Adds a new OpenID Connect server instance in the ASP.NET Core pipeline. ... " />
+            <marker date="1543617969503" expanded="true" signature="2218:2298" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="2304:2631" ph="/// Adds a new OpenID Connect server instance in the ASP.NET Core pipeline. ... " />
+            <marker date="1543617969503" expanded="true" signature="2798:2917" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="2923:3417" ph="/// Adds a new OpenID Connect server instance in the ASP.NET Core pipeline. ... " />
+            <marker date="1543617969503" expanded="true" signature="3634:4229" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="4235:4687" ph="/// Adds a specific &lt;see cref=&quot;T:System.Security.Cryptography.X509Certificates.X509Certificate2&quot; /&gt; to sign the t ... " />
+            <marker date="1543617969503" expanded="true" signature="4820:5536" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="5542:6165" ph="/// Adds a specific &lt;see cref=&quot;T:System.Security.Cryptography.X509Certificates.X509Certificate2&quot; /&gt; retrieved fro ... " />
+            <marker date="1543617969503" expanded="true" signature="6321:6439" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="6445:7198" ph="/// Adds a specific &lt;see cref=&quot;T:System.Security.Cryptography.X509Certificates.X509Certificate2&quot; /&gt; retrieved fro ... " />
+            <marker date="1543617969503" expanded="true" signature="7381:8206" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="7949:8200" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="8212:8743" ph="/// Adds a specific &lt;see cref=&quot;T:System.Security.Cryptography.X509Certificates.X509Certificate2&quot; /&gt; contained in ... " />
+            <marker date="1543617969503" expanded="true" signature="8878:8984" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="8990:9651" ph="/// Adds a specific &lt;see cref=&quot;T:System.Security.Cryptography.X509Certificates.X509Certificate2&quot; /&gt; contained in ... " />
+            <marker date="1543617969503" expanded="true" signature="9813:10371" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="10197:10365" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="10377:10887" ph="/// Adds a specific &lt;see cref=&quot;T:System.Security.Cryptography.X509Certificates.X509Certificate2&quot; /&gt; retrieved fro ... " />
+            <marker date="1543617969503" expanded="true" signature="11009:11698" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="11704:12343" ph="/// Adds a specific &lt;see cref=&quot;T:System.Security.Cryptography.X509Certificates.X509Certificate2&quot; /&gt; retrieved fro ... " />
+            <marker date="1543617969503" expanded="true" signature="12505:13070" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="13076:13383" ph="/// Registers (and generates if necessary) a user-specific development certificate ... " />
+            <marker date="1543617969503" expanded="true" signature="13497:13616" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="13622:14017" ph="/// Registers (and generates if necessary) a user-specific development certificate ... " />
+            <marker date="1543617969503" expanded="true" signature="14162:14813" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="14819:15342" ph="/// Adds a new ephemeral key used to sign the tokens issued by the OpenID Connect server: ... " />
+            <marker date="1543617969503" expanded="true" signature="15446:15509" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="15515:16125" ph="/// Adds a new ephemeral key used to sign the tokens issued by the OpenID Connect server: ... " />
+            <marker date="1543617969503" expanded="true" signature="16247:17545" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="16514:17539" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="17551:17973" ph="/// Adds a specific &lt;see cref=&quot;T:Microsoft.IdentityModel.Tokens.SecurityKey&quot; /&gt; to encrypt the tokens issued by t ... " />
+            <marker date="1543617969503" expanded="true" signature="18091:18643" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="18649:19065" ph="/// Adds a specific &lt;see cref=&quot;T:Microsoft.IdentityModel.Tokens.SecurityKey&quot; /&gt; to sign the tokens issued by the  ... " />
+            <marker date="1543617969503" expanded="true" signature="19177:20495" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="19804:19911" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="19956:20063" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="20501:20919" ph="/// Retrieves the &lt;see cref=&quot;T:AspNet.Security.OpenIdConnect.Primitives.OpenIdConnectRequest&quot; /&gt; instance ... " />
+            <marker date="1543617969503" expanded="true" signature="21008:21180" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="21186:21608" ph="/// Retrieves the &lt;see cref=&quot;T:AspNet.Security.OpenIdConnect.Primitives.OpenIdConnectResponse&quot; /&gt; instance ... " />
+            <marker date="1543617969503" expanded="true" signature="21699:21872" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="21878:22238" ph="/// Inserts the ambient &lt;see cref=&quot;T:AspNet.Security.OpenIdConnect.Primitives.OpenIdConnectRequest&quot; /&gt; request in ... " />
+            <marker date="1543617969503" expanded="true" signature="22391:22784" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="22607:22744" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="22790:23154" ph="/// Inserts the ambient &lt;see cref=&quot;T:AspNet.Security.OpenIdConnect.Primitives.OpenIdConnectResponse&quot; /&gt; response  ... " />
+            <marker date="1543617969503" expanded="true" signature="23310:23705" ph="{...}" />
+            <marker date="1543617969503" expanded="true" signature="23526:23663" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OpenIddict/OpenIddict.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Keystone.Core/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/93AD6F40-40A9-4D0E-9FCB-E91C84A485A4/50/85d21f6b/NotNullAttribute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Keystone.Core/Keystone.Core.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Keystone.Core/KeystoneCoreExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <marker date="1543618666143" expanded="true" signature="50:208" ph="{...}" />
+            <marker date="1543618666143" expanded="true" signature="57:138" ph="/// Extensions to register Keystone services ... " />
+            <marker date="1543618666143" expanded="true" signature="185:206" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OpenIddict.Core/OpenIddictCoreExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <marker date="1543529914781" expanded="true" signature="0:253" ph="/* Licensed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0) ... */" />
+            <marker date="1543529914781" expanded="false" signature="261:465" ph="..." />
+            <marker date="1543529914781" expanded="true" signature="517:8080" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="524:634" ph="/// Exposes extensions allowing to register the OpenIddict core services. ... " />
+            <marker date="1543529914781" expanded="true" signature="683:8078" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="698:1065" ph="/// Registers the OpenIddict core services in the DI container. ... " />
+            <marker date="1543529914781" expanded="true" signature="1159:7050" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="1202:1296" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="2722:3757" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="2910:3549" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="3814:4861" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="4004:4647" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="4918:5917" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="5100:5727" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="5974:6973" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="6156:6783" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="7060:7539" ph="/// Registers the OpenIddict core services in the DI container. ... " />
+            <marker date="1543529914781" expanded="true" signature="7709:8072" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="7752:7846" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="7886:7986" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ACA35230-58BD-4287-889D-3255E820DE9D/59/1d2c3fb1/SqlServerDbContextOptionsExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OpenIddict.Core/OpenIddictCoreBuilder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+          <folding>
+            <marker date="1543529914781" expanded="true" signature="0:253" ph="/* Licensed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0) ... */" />
+            <marker date="1543529914781" expanded="false" signature="261:468" ph="..." />
+            <marker date="1543529914781" expanded="true" signature="520:37748" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="527:649" ph="/// Exposes the necessary methods required to configure the OpenIddict core services. ... " />
+            <marker date="1543529914781" expanded="true" signature="688:37746" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="703:886" ph="/// Initializes a new instance of &lt;see cref=&quot;OpenIddictCoreBuilder&quot;/&gt;. ... " />
+            <marker date="1543529914781" expanded="true" signature="962:1145" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="1006:1101" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="1155:1233" ph="/// Gets the services collection. ... " />
+            <marker date="1543529914781" expanded="true" signature="1349:1705" ph="/// Amends the default OpenIddict core configuration. ... " />
+            <marker date="1543529914781" expanded="true" signature="1807:2040" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="1856:1956" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="2050:2607" ph="/// Adds a custom application store by a custom implementation derived ... " />
+            <marker date="1543529914781" expanded="true" signature="2828:3385" ph="/// Adds a custom application store by a custom implementation derived ... " />
+            <marker date="1543529914781" expanded="true" signature="3527:4743" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="3567:3658" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="3796:3917" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="3931:4102" ph="/* Note: managers can be either open generics (e.g OpenIddictApplicationStore&lt;&gt;) ... */" />
+            <marker date="1543529914781" expanded="true" signature="4148:4482" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="4222:4355" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="4500:4707" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="4753:5318" ph="/// Adds a custom authorization store by a custom implementation derived ... " />
+            <marker date="1543529914781" expanded="true" signature="5543:6108" ph="/// Adds a custom authorization store by a custom implementation derived ... " />
+            <marker date="1543529914781" expanded="true" signature="6252:7480" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="6292:6383" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="6523:6644" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="6658:6835" ph="/* Note: managers can be either open generics (e.g OpenIddictAuthorizationStore&lt;&gt;) ... */" />
+            <marker date="1543529914781" expanded="true" signature="6881:7217" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="6955:7088" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="7235:7444" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="7490:8023" ph="/// Adds a custom scope store by a custom implementation derived ... " />
+            <marker date="1543529914781" expanded="true" signature="8232:8765" ph="/// Adds a custom scope store by a custom implementation derived ... " />
+            <marker date="1543529914781" expanded="true" signature="8901:10081" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="8941:9032" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="9164:9285" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="9299:9452" ph="/* Note: managers can be either open generics (e.g OpenIddictScopeStore&lt;&gt;) ... */" />
+            <marker date="1543529914781" expanded="true" signature="9498:9826" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="9572:9705" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="9844:10045" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="10091:10624" ph="/// Adds a custom token store by a custom implementation derived ... " />
+            <marker date="1543529914781" expanded="true" signature="10833:11366" ph="/// Adds a custom token store by a custom implementation derived ... " />
+            <marker date="1543529914781" expanded="true" signature="11502:12682" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="11542:11633" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="11765:11886" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="11900:12053" ph="/* Note: managers can be either open generics (e.g OpenIddictTokenStore&lt;&gt;) ... */" />
+            <marker date="1543529914781" expanded="true" signature="12099:12427" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="12173:12306" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="12445:12646" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="12692:13174" ph="/// Replace the default application manager by a custom manager derived ... " />
+            <marker date="1543529914781" expanded="true" signature="13354:13834" ph="/// Replace the default application manager by a custom manager derived ... " />
+            <marker date="1543529914781" expanded="true" signature="13918:15510" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="13958:14049" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="14188:14309" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="14323:14498" ph="/* Note: managers can be either open generics (e.g OpenIddictApplicationManager&lt;&gt;) ... */" />
+            <marker date="1543529914781" expanded="true" signature="14544:14944" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="14618:14751" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="14962:15474" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="15520:15881" ph="/// Replaces the default application store resolver by a custom implementation. ... " />
+            <marker date="1543529914781" expanded="true" signature="16165:16513" ph="/// Replaces the default application store resolver by a custom implementation. ... " />
+            <marker date="1543529914781" expanded="true" signature="16667:17156" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="16707:16798" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="16884:17005" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="17166:17656" ph="/// Replace the default authorization manager by a custom manager derived ... " />
+            <marker date="1543529914781" expanded="true" signature="17840:18328" ph="/// Replace the default authorization manager by a custom manager derived ... " />
+            <marker date="1543529914781" expanded="true" signature="18414:20020" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="18454:18545" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="18686:18807" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="18821:19002" ph="/* Note: managers can be either open generics (e.g OpenIddictAuthorizationManager&lt;&gt;) ... */" />
+            <marker date="1543529914781" expanded="true" signature="19048:19450" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="19122:19255" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="19468:19984" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="20030:20393" ph="/// Replaces the default authorization store resolver by a custom implementation. ... " />
+            <marker date="1543529914781" expanded="true" signature="20683:21033" ph="/// Replaces the default authorization store resolver by a custom implementation. ... " />
+            <marker date="1543529914781" expanded="true" signature="21189:21682" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="21229:21320" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="21408:21529" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="21692:22150" ph="/// Replace the default scope manager by a custom manager ... " />
+            <marker date="1543529914781" expanded="true" signature="22318:22774" ph="/// Replace the default scope manager by a custom manager ... " />
+            <marker date="1543529914781" expanded="true" signature="22852:24402" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="22892:22983" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="23116:23237" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="23251:23408" ph="/* Note: managers can be either open generics (e.g OpenIddictScopeManager&lt;&gt;) ... */" />
+            <marker date="1543529914781" expanded="true" signature="23454:23848" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="23528:23661" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="23866:24366" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="24412:24767" ph="/// Replaces the default scope store resolver by a custom implementation. ... " />
+            <marker date="1543529914781" expanded="true" signature="25033:25375" ph="/// Replaces the default scope store resolver by a custom implementation. ... " />
+            <marker date="1543529914781" expanded="true" signature="25523:26000" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="25563:25654" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="25734:25855" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="26010:26468" ph="/// Replace the default token manager by a custom manager ... " />
+            <marker date="1543529914781" expanded="true" signature="26636:27092" ph="/// Replace the default token manager by a custom manager ... " />
+            <marker date="1543529914781" expanded="true" signature="27170:28720" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="27210:27301" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="27434:27555" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="27569:27726" ph="/* Note: managers can be either open generics (e.g OpenIddictTokenManager&lt;&gt;) ... */" />
+            <marker date="1543529914781" expanded="true" signature="27772:28166" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="27846:27979" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="28184:28684" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="28730:29085" ph="/// Replaces the default token store resolver by a custom implementation. ... " />
+            <marker date="1543529914781" expanded="true" signature="29351:29693" ph="/// Replaces the default token store resolver by a custom implementation. ... " />
+            <marker date="1543529914781" expanded="true" signature="29841:30318" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="29881:29972" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="30052:30173" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="30328:30925" ph="/// Disables additional filtering so that the OpenIddict managers don't execute a second check ... " />
+            <marker date="1543529914781" expanded="true" signature="31081:31446" ph="/// Disables the scoped entity caching applied by the OpenIddict managers. ... " />
+            <marker date="1543529914781" expanded="true" signature="31590:31795" ph="/// Configures OpenIddict to use the specified entity as the default application entity. ... " />
+            <marker date="1543529914781" expanded="true" signature="31979:32252" ph="/// Configures OpenIddict to use the specified entity as the default application entity. ... " />
+            <marker date="1543529914781" expanded="true" signature="32338:32716" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="32378:32469" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="32504:32625" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="32726:32933" ph="/// Configures OpenIddict to use the specified entity as the default authorization entity. ... " />
+            <marker date="1543529914781" expanded="true" signature="33127:33404" ph="/// Configures OpenIddict to use the specified entity as the default authorization entity. ... " />
+            <marker date="1543529914781" expanded="true" signature="33492:33872" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="33532:33623" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="33658:33779" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="33882:34081" ph="/// Configures OpenIddict to use the specified entity as the default scope entity. ... " />
+            <marker date="1543529914781" expanded="true" signature="34235:34496" ph="/// Configures OpenIddict to use the specified entity as the default scope entity. ... " />
+            <marker date="1543529914781" expanded="true" signature="34576:34948" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="34616:34707" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="34742:34863" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="34958:35157" ph="/// Configures OpenIddict to use the specified entity as the default token entity. ... " />
+            <marker date="1543529914781" expanded="true" signature="35311:35572" ph="/// Configures OpenIddict to use the specified entity as the default token entity. ... " />
+            <marker date="1543529914781" expanded="true" signature="35652:36024" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="35692:35783" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="35818:35939" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="36034:36367" ph="/// Configures OpenIddict to use the specified entity cache limit, ... " />
+            <marker date="1543529914781" expanded="true" signature="36435:36689" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="36473:36603" ph="{...}" />
+            <marker date="1543529914781" expanded="true" signature="36699:37021" ph="/// Determines whether the specified object is equal to the current object. ... " />
+            <marker date="1543529914781" expanded="true" signature="37166:37318" ph="/// Serves as the default hash function. ... " />
+            <marker date="1543529914781" expanded="true" signature="37447:37624" ph="/// Returns a string that represents the current object. ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Mvc.Server/Models/ApplicationDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <marker date="1543529914287" expanded="false" signature="6:93" ph="..." />
+            <marker date="1543529914287" expanded="true" signature="122:701" ph="{...}" />
+            <marker date="1543529914287" expanded="true" signature="199:699" ph="{...}" />
+            <marker date="1543529914287" expanded="true" signature="370:693" ph="{...}" />
+            <marker date="1543529914287" expanded="true" signature="437:683" ph="/* Customize the ASP.NET Identity model and override the defaults if needed. ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B3824083-29EE-4512-A838-FCA9F4A05F42/30/853ead8a/ActivatorUtilities.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="230" column="10" selection-start-line="230" selection-start-column="10" selection-end-line="230" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/11A24722-B687-485F-B7C0-A5DA34B5B018/ad/39abcd49/ServiceProvider.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="60" column="6" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B3824083-29EE-4512-A838-FCA9F4A05F42/6c/73adce00/ServiceProviderServiceExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="63" column="6" selection-start-line="63" selection-start-column="6" selection-end-line="63" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0998BF91-1F01-4E78-84D2-695C95A67016/dd/c4d6d853/EntityFrameworkServiceCollectionExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="240" column="116" selection-start-line="240" selection-start-column="116" selection-end-line="240" selection-end-column="116" />
+          <folding>
+            <marker date="1543619227203" expanded="true" signature="0:432" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1543619227203" expanded="false" signature="440:795" ph="..." />
+            <marker date="1543619227203" expanded="true" signature="847:18419" ph="{...}" />
+            <marker date="1543619227203" expanded="true" signature="852:1043" ph="///     Extension methods for setting up Entity Framework related services in an &lt;see cref=&quot;T:Microsoft.Extension ... " />
+            <marker date="1543619227203" expanded="true" signature="1108:18417" ph="{...}" />
+            <marker date="1543619227203" expanded="true" signature="1117:3898" ph="///     Registers the given context as a service in the &lt;see cref=&quot;T:Microsoft.Extensions.DependencyInjection.ISe ... " />
+            <marker date="1543619227203" expanded="true" signature="4220:4486" ph="{...}" />
+            <marker date="1543619227203" expanded="true" signature="4492:6072" ph="///     Registers the given context as a service in the &lt;see cref=&quot;T:Microsoft.Extensions.DependencyInjection.ISe ... " />
+            <marker date="1543619227203" expanded="true" signature="6293:6551" ph="{...}" />
+            <marker date="1543619227203" expanded="true" signature="6557:8784" ph="///     &lt;para&gt; ... " />
+            <marker date="1543619227203" expanded="true" signature="9023:10180" ph="{...}" />
+            <marker date="1543619227203" expanded="true" signature="9594:9909" ph="{...}" />
+            <marker date="1543619227203" expanded="true" signature="10186:11554" ph="///     Registers the given context as a service in the &lt;see cref=&quot;T:Microsoft.Extensions.DependencyInjection.ISe ... " />
+            <marker date="1543619227203" expanded="true" signature="11785:11944" ph="{...}" />
+            <marker date="1543619227203" expanded="true" signature="11950:15582" ph="///     &lt;para&gt; ... " />
+            <marker date="1543619227203" expanded="true" signature="15915:16515" ph="{...}" />
+            <marker date="1543619227203" expanded="true" signature="16729:17247" ph="{...}" />
+            <marker date="1543619227203" expanded="true" signature="17487:18006" ph="{...}" />
+            <marker date="1543619227203" expanded="true" signature="18095:18413" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/11A24722-B687-485F-B7C0-A5DA34B5B018/0b/1d124cf3/CallSiteRuntimeResolver.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="100" column="6" selection-start-line="100" selection-start-column="6" selection-end-line="100" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/11A24722-B687-485F-B7C0-A5DA34B5B018/93/ba186642/CallSiteVisitor`2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7469EA46-1AEA-47E2-BA3B-AAD4E0506E84/6f/67305e20/MvcApplicationBuilderExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AE06725F-8541-40D1-9979-13239744E108/75/96695235/AuthAppBuilderExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78D88D60-A7EE-4F2D-AFE8-7DC6F83A9E0E/70/1b7e7a06/StatusCodePagesExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="136" column="28" selection-start-line="136" selection-start-column="28" selection-end-line="136" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9BDBBF39-CD35-4D50-8D08-16FAC22306EF/3a/f2573fe6/StaticFileExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OpenIddict.Core/Managers/OpenIddictApplicationManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="242" column="12" selection-start-line="242" selection-start-column="12" selection-end-line="242" selection-end-column="12" />
+          <folding>
+            <marker date="1543619664013" expanded="true" signature="0:253" ph="/* Licensed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0) ... */" />
+            <marker date="1543619664013" expanded="false" signature="261:593" ph="..." />
+            <marker date="1543619664013" expanded="true" signature="620:66848" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="627:828" ph="/// Provides methods allowing to manage the applications stored in the store. ... " />
+            <marker date="1543619664013" expanded="true" signature="947:66846" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="1289:1446" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="1456:1556" ph="/// Gets the cache associated with the current manager. ... " />
+            <marker date="1543619664013" expanded="true" signature="1641:1742" ph="/// Gets the logger associated with the current manager. ... " />
+            <marker date="1543619664013" expanded="true" signature="1794:1896" ph="/// Gets the options associated with the current manager. ... " />
+            <marker date="1543619664013" expanded="true" signature="1980:2080" ph="/// Gets the store associated with the current manager. ... " />
+            <marker date="1543619664013" expanded="true" signature="2165:2619" ph="/// Determines the number of applications that exist in the database. ... " />
+            <marker date="1543619664013" expanded="true" signature="2773:3375" ph="/// Determines the number of applications that match the specified query. ... " />
+            <marker date="1543619664013" expanded="true" signature="3558:3765" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="3599:3691" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="3775:4186" ph="/// Creates a new application. ... " />
+            <marker date="1543619664013" expanded="true" signature="4393:5064" ph="/// Creates a new application. ... " />
+            <marker date="1543619664013" expanded="true" signature="5245:7354" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="5292:5390" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="5496:5657" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="5897:6163" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="6273:6477" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="6632:7115" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="6906:7003" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="7246:7344" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="7364:8050" ph="/// Creates a new application based on the specified descriptor. ... " />
+            <marker date="1543619664013" expanded="true" signature="8224:9199" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="8270:8367" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="8484:8628" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="8845:9044" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="9061:9156" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="9209:9626" ph="/// Removes an existing application. ... " />
+            <marker date="1543619664013" expanded="true" signature="9755:10142" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="9802:9900" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="9961:10062" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="10152:10706" ph="/// Retrieves an application using its client identifier. ... " />
+            <marker date="1543619664013" expanded="true" signature="10863:11985" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="10923:11059" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="11333:11390" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="11404:11741" ph="/* SQL engines like Microsoft SQL Server or MySQL are known to use case-insensitive lookups by default. ... */" />
+            <marker date="1543619664013" expanded="true" signature="11742:11942" ph="/* if (!Options.CurrentValue.DisableAdditionalFiltering &amp;&amp; ... */" />
+            <marker date="1543619664013" expanded="true" signature="11995:12549" ph="/// Retrieves an application using its unique identifier. ... " />
+            <marker date="1543619664013" expanded="true" signature="12687:13847" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="12747:12883" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="13145:13202" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="13216:13553" ph="/* SQL engines like Microsoft SQL Server or MySQL are known to use case-insensitive lookups by default. ... */" />
+            <marker date="1543619664013" expanded="true" signature="13747:13804" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="13857:14474" ph="/// Retrieves all the applications associated with the specified post_logout_redirect_uri. ... " />
+            <marker date="1543619664013" expanded="true" signature="14657:16481" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="14714:14844" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="15140:15230" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="15296:15361" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="15375:15712" ph="/* SQL engines like Microsoft SQL Server or MySQL are known to use case-insensitive lookups by default. ... */" />
+            <marker date="1543619664013" expanded="true" signature="15859:16332" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="15985:16318" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="16206:16300" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="16491:17072" ph="/// Retrieves all the applications associated with the specified redirect_uri. ... " />
+            <marker date="1543619664013" expanded="true" signature="17245:19039" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="17302:17432" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="17708:17798" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="17864:17929" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="17943:18280" ph="/* SQL engines like Microsoft SQL Server or MySQL are known to use case-insensitive lookups by default. ... */" />
+            <marker date="1543619664013" expanded="true" signature="18427:18890" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="18543:18876" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="18764:18858" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="19049:19635" ph="/// Executes the specified query and returns the first element. ... " />
+            <marker date="1543619664013" expanded="true" signature="19819:20064" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="19860:19952" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="20074:20785" ph="/// Executes the specified query and returns the first element. ... " />
+            <marker date="1543619664013" expanded="true" signature="21023:21235" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="21064:21156" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="21245:21785" ph="/// Retrieves the client identifier associated with an application. ... " />
+            <marker date="1543619664013" expanded="true" signature="21939:22170" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="21986:22084" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="22180:22718" ph="/// Retrieves the client type associated with an application. ... " />
+            <marker date="1543619664013" expanded="true" signature="22874:23107" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="22921:23019" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="23117:23659" ph="/// Retrieves the consent type associated with an application. ... " />
+            <marker date="1543619664013" expanded="true" signature="23822:24230" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="23869:23967" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="24100:24194" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="24240:24770" ph="/// Retrieves the display name associated with an application. ... " />
+            <marker date="1543619664013" expanded="true" signature="24927:25161" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="24974:25072" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="25171:25711" ph="/// Retrieves the unique identifier associated with an application. ... " />
+            <marker date="1543619664013" expanded="true" signature="25846:26071" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="25893:25991" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="26081:26613" ph="/// Retrieves the permissions associated with an application. ... " />
+            <marker date="1543619664013" expanded="true" signature="26786:27020" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="26833:26931" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="27030:27589" ph="/// Retrieves the logout callback addresses associated with an application. ... " />
+            <marker date="1543619664013" expanded="true" signature="27773:28018" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="27820:27918" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="28028:28568" ph="/// Retrieves the callback addresses associated with an application. ... " />
+            <marker date="1543619664013" expanded="true" signature="28742:28977" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="28789:28887" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="28987:29498" ph="/// Determines whether the specified permission has been granted to the application. ... " />
+            <marker date="1543619664013" expanded="true" signature="29682:30131" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="29729:29827" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="29878:30019" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="30141:30553" ph="/// Determines whether an application is a confidential client. ... " />
+            <marker date="1543619664013" expanded="true" signature="30688:31150" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="30735:30833" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="30959:31017" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="31160:31560" ph="/// Determines whether an application is a hybrid client. ... " />
+            <marker date="1543619664013" expanded="true" signature="31689:32145" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="31736:31834" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="31960:32018" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="32155:32555" ph="/// Determines whether an application is a public client. ... " />
+            <marker date="1543619664013" expanded="true" signature="32684:33229" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="32731:32829" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="33045:33102" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="33239:33863" ph="/// Executes the specified query and returns all the corresponding elements. ... " />
+            <marker date="1543619664013" expanded="true" signature="34054:34144" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="34154:34762" ph="/// Executes the specified query and returns all the corresponding elements. ... " />
+            <marker date="1543619664013" expanded="true" signature="34963:35209" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="35004:35096" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="35219:35952" ph="/// Executes the specified query and returns all the corresponding elements. ... " />
+            <marker date="1543619664013" expanded="true" signature="36207:36420" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="36248:36340" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="36430:36923" ph="/// Populates the application using the specified descriptor. ... " />
+            <marker date="1543619664013" expanded="true" signature="37120:38432" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="37167:37265" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="37302:37399" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="38442:38961" ph="/// Populates the specified descriptor using the properties exposed by the application. ... " />
+            <marker date="1543619664013" expanded="true" signature="39171:41690" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="39217:39314" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="39352:39450" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="40317:40952" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="40442:40569" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="40746:40877" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="41055:41680" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="41180:41307" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="41484:41615" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="41700:42117" ph="/// Updates an existing application. ... " />
+            <marker date="1543619664013" expanded="true" signature="42246:43347" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="42293:42391" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="42546:43035" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="42826:42923" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="43166:43337" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="43357:44052" ph="/// Updates an existing application and replaces the existing secret. ... " />
+            <marker date="1543619664013" expanded="true" signature="44220:44824" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="44267:44365" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="44412:44528" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="44546:44750" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="44834:45343" ph="/// Updates an existing application. ... " />
+            <marker date="1543619664013" expanded="true" signature="45538:46526" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="45585:45683" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="45720:45817" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="46324:46452" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="46536:47073" ph="/// Validates the application to ensure it's in a consistent state. ... " />
+            <marker date="1543619664013" expanded="true" signature="47251:52304" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="47298:47396" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="47725:47854" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="47872:48808" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="47903:48319" ph="/* Note: depending on the database/table/query collation used by the store, an application ... */" />
+            <marker date="1543619664013" expanded="true" signature="48637:48794" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="48940:49063" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="49081:50782" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="49535:49792" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="50164:50332" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="50610:50768" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="50796:50963" ph="/* When callback URLs are specified, ensure they are valid and spec-compliant. ... */" />
+            <marker date="1543619664013" expanded="true" signature="51226:52155" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="51351:51512" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="51689:51854" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="51978:52141" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="52314:53068" ph="/// Validates the client_secret associated with an application. ... " />
+            <marker date="1543619664013" expanded="true" signature="53245:54332" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="53292:53390" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="53460:53623" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="53759:53995" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="54080:54296" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="54342:55009" ph="/// Validates the redirect_uri to ensure it's associated with an application. ... " />
+            <marker date="1543619664013" expanded="true" signature="55196:56272" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="55243:55341" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="55389:55519" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="55618:56008" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="55649:55850" ph="/* Note: the redirect_uri must be compared using case-sensitive &quot;Simple String Comparison&quot;. ... */" />
+            <marker date="1543619664013" expanded="true" signature="55925:55994" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="56282:56833" ph="/// Obfuscates the specified client secret so it can be safely stored in a database. ... " />
+            <marker date="1543619664013" expanded="true" signature="56971:57231" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="57027:57155" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="57241:58066" ph="/// Validates the specified value to ensure it corresponds to the client secret. ... " />
+            <marker date="1543619664013" expanded="true" signature="58242:59094" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="58298:58426" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="58476:58610" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="58627:58743" ph="{...}" />
+            <marker date="1543619664013" expanded="true" signature="58784:59084" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Mvc.Server/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding>
+            <marker date="1543615742929" expanded="false" signature="6:63" ph="..." />
+            <marker date="1543615742929" expanded="true" signature="85:468" ph="{...}" />
+            <marker date="1543615742929" expanded="true" signature="119:466" ph="{...}" />
+            <marker date="1543615742929" expanded="true" signature="275:460" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OpenIddict.EntityFrameworkCore/OpenIddictEntityFrameworkCoreExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <marker date="1543529914814" expanded="true" signature="0:253" ph="/* Licensed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0) ... */" />
+            <marker date="1543529914814" expanded="false" signature="261:528" ph="..." />
+            <marker date="1543529914814" expanded="true" signature="580:4170" ph="{...}" />
+            <marker date="1543529914814" expanded="true" signature="587:714" ph="/// Exposes extensions allowing to register the OpenIddict Entity Framework Core services. ... " />
+            <marker date="1543529914814" expanded="true" signature="778:4168" ph="{...}" />
+            <marker date="1543529914814" expanded="true" signature="793:1283" ph="/// Registers the Entity Framework Core stores services in the DI container and ... " />
+            <marker date="1543529914814" expanded="true" signature="1411:2962" ph="{...}" />
+            <marker date="1543529914814" expanded="true" signature="1454:1548" ph="{...}" />
+            <marker date="1543529914814" expanded="true" signature="1562:1841" ph="/* Since Entity Framework Core may be used with databases performing case-insensitive ... */" />
+            <marker date="1543529914814" expanded="true" signature="2972:3576" ph="/// Registers the Entity Framework Core stores services in the DI container and ... " />
+            <marker date="1543529914814" expanded="true" signature="3784:4162" ph="{...}" />
+            <marker date="1543529914814" expanded="true" signature="3827:3921" ph="{...}" />
+            <marker date="1543529914814" expanded="true" signature="3961:4061" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OpenIddict.EntityFrameworkCore/OpenIddictEntityFrameworkCoreHelpers.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="48" column="92" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="92" />
+          <folding>
+            <marker date="1543529914814" expanded="true" signature="0:253" ph="/* Licensed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0) ... */" />
+            <marker date="1543529914814" expanded="false" signature="261:432" ph="..." />
+            <marker date="1543529914814" expanded="true" signature="473:6366" ph="{...}" />
+            <marker date="1543529914814" expanded="true" signature="480:610" ph="/// Exposes extensions allowing to register the OpenIddict Entity Framework Core entity sets. ... " />
+            <marker date="1543529914814" expanded="true" signature="671:6364" ph="{...}" />
+            <marker date="1543529914814" expanded="true" signature="686:1062" ph="/// Registers the OpenIddict entity sets in the Entity Framework Core context ... " />
+            <marker date="1543529914814" expanded="true" signature="1421:1791" ph="/// Registers the OpenIddict entity sets in the Entity Framework Core  ... " />
+            <marker date="1543529914814" expanded="true" signature="2220:2582" ph="/// Registers the OpenIddict entity sets in the Entity Framework Core ... " />
+            <marker date="1543529914814" expanded="true" signature="3084:3405" ph="{...}" />
+            <marker date="1543529914814" expanded="true" signature="3127:3221" ph="{...}" />
+            <marker date="1543529914814" expanded="true" signature="3415:3791" ph="/// Registers the OpenIddict entity sets in the Entity Framework Core context ... " />
+            <marker date="1543529914814" expanded="true" signature="4128:4497" ph="/// Registers the OpenIddict entity sets in the Entity Framework Core ... " />
+            <marker date="1543529914814" expanded="true" signature="4892:5254" ph="/// Registers the OpenIddict entity sets in the Entity Framework Core ... " />
+            <marker date="1543529914814" expanded="true" signature="5734:6358" ph="{...}" />
+            <marker date="1543529914814" expanded="true" signature="5777:5871" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AE06725F-8541-40D1-9979-13239744E108/9c/3aaec8b8/AuthenticationServiceCollectionExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1F2AA129-F069-4627-816C-2BCA09FD4D1E/e9/bfd2ed69/GoogleExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Mvc.Server/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="57" column="15" lean-forward="true" selection-start-line="57" selection-start-column="15" selection-end-line="57" selection-end-column="15" />
+          <folding>
+            <marker date="1543620823117" expanded="false" signature="6:427" ph="..." />
+            <marker date="1543620823117" expanded="true" signature="449:11133" ph="{...}" />
+            <marker date="1543620823117" expanded="true" signature="476:11131" ph="{...}" />
+            <marker date="1543620823117" expanded="true" signature="535:598" ph="{...}" />
+            <marker date="1543620823117" expanded="true" signature="721:6815" ph="{...}" />
+            <marker date="1543620823117" expanded="true" signature="830:1259" ph="{...}" />
+            <marker date="1543620823117" expanded="true" signature="1030:1204" ph="/* Register the entity sets needed by OpenIddict. ... */" />
+            <marker date="1543620823117" expanded="true" signature="1336:1481" ph="/* services.AddIdentity&lt;ApplicationUser, IdentityRole&gt;() ... */" />
+            <marker date="1543620823117" expanded="true" signature="1495:1736" ph="/* Configure Identity to use the same JWT claims as OpenIddict instead ... */" />
+            <marker date="1543620823117" expanded="true" signature="1795:2096" ph="{...}" />
+            <marker date="1543620823117" expanded="true" signature="2178:2400" ph="{...}" />
+            <marker date="1543620823117" expanded="true" signature="2441:2633" ph="{...}" />
+            <marker date="1543620823117" expanded="true" signature="2768:3019" ph="{...}" />
+            <marker date="1543620823117" expanded="true" signature="3118:6306" ph="{...}" />
+            <marker date="1543620823117" expanded="true" signature="3157:3385" ph="/* Register the ASP.NET Core MVC services used by OpenIddict. ... */" />
+            <marker date="1543620823117" expanded="true" signature="3814:4004" ph="/* Note: the Mvc.Client sample only uses the code flow and the password flow, but you ... */" />
+            <marker date="1543620823117" expanded="true" signature="4510:4945" ph="/* When request caching is enabled, authorization and logout requests ... */" />
+            <marker date="1543620823117" expanded="true" signature="5157:6288" ph="/* Note: to use JWT access tokens instead of the default ... */" />
+            <marker date="1543620823117" expanded="true" signature="6325:6632" ph="/* Register the OpenIddict validation handler. ... */" />
+            <marker date="1543620823117" expanded="true" signature="6871:7520" ph="{...}" />
+            <marker date="1543620823117" expanded="true" signature="6965:7091" ph="{...}" />
+            <marker date="1543620823117" expanded="true" signature="7295:7439" ph="/* Seed the database with the sample applications. ... */" />
+            <marker date="1543620823117" expanded="true" signature="7591:11125" ph="{...}" />
+            <marker date="1543620823117" expanded="true" signature="7821:11115" ph="{...}" />
+            <marker date="1543620823117" expanded="true" signature="8193:9520" ph="{...}" />
+            <marker date="1543620823117" expanded="true" signature="8305:9441" ph="{...}" />
+            <marker date="1543620823117" expanded="true" signature="8754:9419" ph="{...}" />
+            <marker date="1543620823117" expanded="true" signature="9538:10055" ph="/* To test this sample with Postman, use the following settings: ... */" />
+            <marker date="1543620823117" expanded="true" signature="10129:11101" ph="{...}" />
+            <marker date="1543620823117" expanded="true" signature="10241:11022" ph="{...}" />
+            <marker date="1543620823117" expanded="true" signature="10498:11000" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

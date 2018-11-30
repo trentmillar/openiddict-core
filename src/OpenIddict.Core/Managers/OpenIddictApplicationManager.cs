@@ -257,11 +257,11 @@ namespace OpenIddict.Core
             // SQL engines like Microsoft SQL Server or MySQL are known to use case-insensitive lookups by default.
             // To ensure a case-sensitive comparison is enforced independently of the database/table/query collation
             // used by the store, a second pass using string.Equals(StringComparison.Ordinal) is manually made here.
-            if (!Options.CurrentValue.DisableAdditionalFiltering &&
-                !string.Equals(await Store.GetClientIdAsync(application, cancellationToken), identifier, StringComparison.Ordinal))
-            {
-                return null;
-            }
+/*if (!Options.CurrentValue.DisableAdditionalFiltering &&
+    !string.Equals(await Store.GetClientIdAsync(application, cancellationToken), identifier, StringComparison.Ordinal))
+{
+    return null;
+}*/
 
             return application;
         }

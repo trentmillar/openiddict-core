@@ -1,6 +1,7 @@
 using System;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -20,7 +21,7 @@ namespace Mvc.Server
             Configuration = configuration;
         }
 
-        public IConfiguration Configuration { get; }
+        private IConfiguration Configuration { get; }
 
         public void ConfigureServices(IServiceCollection services)
         {
@@ -29,18 +30,22 @@ namespace Mvc.Server
             services.AddDbContext<ApplicationDbContext>(options =>
             {
                 // Configure the context to use Microsoft SQL Server.
-                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
+               
+/*options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));*/
 
                 // Register the entity sets needed by OpenIddict.
                 // Note: use the generic overload if you need
                 // to replace the default OpenIddict entities.
                 options.UseOpenIddict();
             });
+            
 
+            
             // Register the Identity services.
-            services.AddIdentity<ApplicationUser, IdentityRole>()
-                .AddEntityFrameworkStores<ApplicationDbContext>()
-                .AddDefaultTokenProviders();
+/*services.AddIdentity<ApplicationUser, IdentityRole>()
+    .AddEntityFrameworkStores<ApplicationDbContext>()
+    .AddDefaultTokenProviders();
+*/
 
             // Configure Identity to use the same JWT claims as OpenIddict instead
             // of the legacy WS-Federation claims it uses by default (ClaimTypes),
@@ -147,7 +152,12 @@ namespace Mvc.Server
         public void Configure(IApplicationBuilder app)
         {
             app.UseDeveloperExceptionPage();
-
+            app.Use((context, next) =>
+                {
+                    context.Items.Add("pao", "stuff");
+                    return next();
+                }
+            );
             app.UseStaticFiles();
 
             app.UseStatusCodePagesWithReExecute("/error");
@@ -158,7 +168,7 @@ namespace Mvc.Server
 
             // Seed the database with the sample applications.
             // Note: in a real world application, this step should be part of a setup script.
-            InitializeAsync(app.ApplicationServices).GetAwaiter().GetResult();
+/*InitializeAsync(app.ApplicationServices).GetAwaiter().GetResult();*/
         }
 
         private async Task InitializeAsync(IServiceProvider services)
@@ -167,7 +177,7 @@ namespace Mvc.Server
             using (var scope = services.GetRequiredService<IServiceScopeFactory>().CreateScope())
             {
                 var context = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
-                await context.Database.EnsureCreatedAsync();
+                //await context.Database.EnsureCreatedAsync();
 
                 var manager = scope.ServiceProvider.GetRequiredService<OpenIddictApplicationManager<OpenIddictApplication>>();
 
